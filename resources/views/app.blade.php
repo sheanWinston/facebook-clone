@@ -8,7 +8,7 @@
     <meta name="description" content="friendbook">
     <meta name="keywords" content="friendbook">
     <meta name="author" content="friendbook">
-    <link rel="icon" href="../assets/images/favicon.png" type="image/x-icon" />
+    <link rel="icon" href="/assets/images/favicon.png" type="image/x-icon" />
     <title>Friendbook</title>
 
     <!--Google font-->
@@ -17,7 +17,7 @@
         rel="stylesheet">
 
     <!-- Theme css -->
-    <link id="change-link" rel="stylesheet" type="text/css" href="../assets/css/style.css">
+    <link id="change-link" rel="stylesheet" type="text/css" href="/assets/css/style.css">
 
 </head>
 
@@ -33,7 +33,7 @@
                     <div class="header-left">
                         <div class="brand-logo">
                             <a href="index.html">
-                                <img src="../assets/images/icon/logo.png" alt="logo" class="img-fluid blur-up lazyload">
+                                <img src="/assets/images/icon/logo.png" alt="logo" class="img-fluid blur-up lazyload">
                             </a>
                         </div>
                         <div class="search-box">
@@ -64,7 +64,7 @@
                                         <ul class="friend-list">
                                             <li>
                                                 <div class="media">
-                                                    <img src="../assets/images/user-sm/5.jpg" alt="user">
+                                                    <img src="/assets/images/user-sm/5.jpg" alt="user">
                                                     <div class="media-body">
                                                         <div>
                                                             <h5 class="mt-0">Paige Turner</h5>
@@ -79,7 +79,7 @@
                                             </li>
                                             <li>
                                                 <div class="media">
-                                                    <img src="../assets/images/user-sm/6.jpg" alt="user">
+                                                    <img src="/assets/images/user-sm/6.jpg" alt="user">
                                                     <div class="media-body">
                                                         <div>
                                                             <h5 class="mt-0">Paige Turner</h5>
@@ -94,7 +94,7 @@
                                             </li>
                                             <li>
                                                 <div class="media">
-                                                    <img src="../assets/images/user-sm/7.jpg" alt="user">
+                                                    <img src="/assets/images/user-sm/7.jpg" alt="user">
                                                     <div class="media-body">
                                                         <div>
                                                             <h5 class="mt-0">Paige Turner</h5>
@@ -109,7 +109,7 @@
                                             </li>
                                             <li>
                                                 <div class="media">
-                                                    <img src="../assets/images/user-sm/2.jpg" alt="user">
+                                                    <img src="/assets/images/user-sm/2.jpg" alt="user">
                                                     <div class="media-body">
                                                         <div>
                                                             <h5 class="mt-0">Paige Turner</h5>
@@ -190,7 +190,7 @@
                                             <li>
                                                 <a href="#">
                                                     <div class="media">
-                                                        <img src="../assets/images/user-sm/1.jpg" alt="user">
+                                                        <img src="/assets/images/user-sm/1.jpg" alt="user">
                                                         <div class="media-body">
                                                             <div>
                                                                 <h5 class="mt-0">Paige Turner</h5>
@@ -206,7 +206,7 @@
                                             <li>
                                                 <a href="#">
                                                     <div class="media">
-                                                        <img src="../assets/images/user-sm/2.jpg" alt="user">
+                                                        <img src="/assets/images/user-sm/2.jpg" alt="user">
                                                         <div class="media-body">
                                                             <div>
                                                                 <h5 class="mt-0">Paige Turner</h5>
@@ -219,7 +219,7 @@
                                             <li>
                                                 <a href="#">
                                                     <div class="media">
-                                                        <img src="../assets/images/user-sm/3.jpg" alt="user">
+                                                        <img src="/assets/images/user-sm/3.jpg" alt="user">
                                                         <div class="media-body">
                                                             <div>
                                                                 <h5 class="mt-0">Bob Frapples</h5>
@@ -362,7 +362,7 @@
                                             <li class="d-block">
                                                 <div>
                                                     <div class="media">
-                                                        <img src="../assets/images/user-sm/5.jpg" alt="user">
+                                                        <img src="/assets/images/user-sm/5.jpg" alt="user">
                                                         <div class="media-body">
                                                             <div>
                                                                 <h5 class="mt-0"><span>Paige Turner</span> send you a
@@ -383,7 +383,7 @@
                                             <li>
                                                 <a href="#">
                                                     <div class="media">
-                                                        <img src="../assets/images/user-sm/6.jpg" alt="user">
+                                                        <img src="/assets/images/user-sm/6.jpg" alt="user">
                                                         <div class="media-body">
                                                             <div>
                                                                 <h5 class="mt-0"><span>Bob Frapples</span> add their
@@ -398,7 +398,7 @@
                                             <li>
                                                 <a href="#">
                                                     <div class="media">
-                                                        <img src="../assets/images/user-sm/7.jpg" alt="user">
+                                                        <img src="/assets/images/user-sm/7.jpg" alt="user">
                                                         <div class="media-body">
                                                             <div>
                                                                 <h5 class="mt-0"><span>Josephin water</span> have
@@ -413,7 +413,7 @@
                                             <li>
                                                 <a href="#">
                                                     <div class="media">
-                                                        <img src="../assets/images/user-sm/2.jpg" alt="user">
+                                                        <img src="/assets/images/user-sm/2.jpg" alt="user">
                                                         <div class="media-body">
                                                             <div>
                                                                 <h5 class="mt-0"><span>Petey Cruiser</span> added a new
@@ -437,7 +437,7 @@
                                         data-feather="user"></i>
                                     <div class="media d-none d-sm-flex">
                                         <div class="user-img">
-                                            <img src="../assets/images/user-sm/1.jpg"
+                                            <img src="/assets/images/user-sm/1.jpg"
                                                 class="img-fluid blur-up lazyload bg-img" alt="user">
                                             <span class="available-stats online"></span>
                                         </div>
@@ -572,13 +572,13 @@
                         <span class="count">2</span>
                         <ul>
                             <li>
-                                <a href="#"><img src="../assets/images/icon/game/1.jpg" alt=""></a>
+                                <a href="#"><img src="/assets/images/icon/game/1.jpg" alt=""></a>
                             </li>
                             <li>
-                                <a href="#"><img src="../assets/images/icon/game/2.jpg" alt=""></a>
+                                <a href="#"><img src="/assets/images/icon/game/2.jpg" alt=""></a>
                             </li>
                             <li>
-                                <a href="#"><img src="../assets/images/icon/game/3.jpg" alt=""></a>
+                                <a href="#"><img src="/assets/images/icon/game/3.jpg" alt=""></a>
                             </li>
                         </ul>
                     </li>
@@ -1090,7 +1090,7 @@
                 <div class="header-left">
                     <div class="brand-logo">
                         <a href="index.html">
-                            <img src="../assets/images/icon/logo.png" alt="logo" class="img-fluid blur-up lazyload">
+                            <img src="/assets/images/icon/logo.png" alt="logo" class="img-fluid blur-up lazyload">
                         </a>
                     </div>
                     <div class="search-box">
@@ -1104,7 +1104,7 @@
                             <ul class="friend-list">
                                 <li>
                                     <div class="media">
-                                        <img src="../assets/images/user-sm/9.jpg" alt="user">
+                                        <img src="/assets/images/user-sm/9.jpg" alt="user">
                                         <div class="media-body">
                                             <div>
                                                 <h5 class="mt-0">Paige Turner</h5>
@@ -1115,7 +1115,7 @@
                                 </li>
                                 <li>
                                     <div class="media">
-                                        <img src="../assets/images/user-sm/12.jpg" alt="user">
+                                        <img src="/assets/images/user-sm/12.jpg" alt="user">
                                         <div class="media-body">
                                             <div>
                                                 <h5 class="mt-0">Paige Turner</h5>
@@ -1126,7 +1126,7 @@
                                 </li>
                                 <li>
                                     <div class="media">
-                                        <img src="../assets/images/user-sm/15.jpg" alt="user">
+                                        <img src="/assets/images/user-sm/15.jpg" alt="user">
                                         <div class="media-body">
                                             <div>
                                                 <h5 class="mt-0">Paige Turner</h5>
@@ -1162,7 +1162,7 @@
                                     <ul class="friend-list">
                                         <li>
                                             <div class="media">
-                                                <img src="../assets/images/user-sm/5.jpg" alt="user">
+                                                <img src="/assets/images/user-sm/5.jpg" alt="user">
                                                 <div class="media-body">
                                                     <div>
                                                         <h5 class="mt-0">Paige Turner</h5>
@@ -1177,7 +1177,7 @@
                                         </li>
                                         <li>
                                             <div class="media">
-                                                <img src="../assets/images/user-sm/6.jpg" alt="user">
+                                                <img src="/assets/images/user-sm/6.jpg" alt="user">
                                                 <div class="media-body">
                                                     <div>
                                                         <h5 class="mt-0">Paige Turner</h5>
@@ -1192,7 +1192,7 @@
                                         </li>
                                         <li>
                                             <div class="media">
-                                                <img src="../assets/images/user-sm/7.jpg" alt="user">
+                                                <img src="/assets/images/user-sm/7.jpg" alt="user">
                                                 <div class="media-body">
                                                     <div>
                                                         <h5 class="mt-0">Paige Turner</h5>
@@ -1207,7 +1207,7 @@
                                         </li>
                                         <li>
                                             <div class="media">
-                                                <img src="../assets/images/user-sm/2.jpg" alt="user">
+                                                <img src="/assets/images/user-sm/2.jpg" alt="user">
                                                 <div class="media-body">
                                                     <div>
                                                         <h5 class="mt-0">Paige Turner</h5>
@@ -1284,7 +1284,7 @@
                                         <li>
                                             <a href="#">
                                                 <div class="media">
-                                                    <img src="../assets/images/user-sm/1.jpg" alt="user">
+                                                    <img src="/assets/images/user-sm/1.jpg" alt="user">
                                                     <div class="media-body">
                                                         <div>
                                                             <h5 class="mt-0">Paige Turner</h5>
@@ -1300,7 +1300,7 @@
                                         <li>
                                             <a href="#">
                                                 <div class="media">
-                                                    <img src="../assets/images/user-sm/2.jpg" alt="user">
+                                                    <img src="/assets/images/user-sm/2.jpg" alt="user">
                                                     <div class="media-body">
                                                         <div>
                                                             <h5 class="mt-0">Paige Turner</h5>
@@ -1313,7 +1313,7 @@
                                         <li>
                                             <a href="#">
                                                 <div class="media">
-                                                    <img src="../assets/images/user-sm/3.jpg" alt="user">
+                                                    <img src="/assets/images/user-sm/3.jpg" alt="user">
                                                     <div class="media-body">
                                                         <div>
                                                             <h5 class="mt-0">Bob Frapples</h5>
@@ -1456,7 +1456,7 @@
                                         <li class="d-block">
                                             <div>
                                                 <div class="media">
-                                                    <img src="../assets/images/user-sm/5.jpg" alt="user">
+                                                    <img src="/assets/images/user-sm/5.jpg" alt="user">
                                                     <div class="media-body">
                                                         <div>
                                                             <h5 class="mt-0"><span>Paige Turner</span> send you a friend
@@ -1477,7 +1477,7 @@
                                         <li>
                                             <a href="#">
                                                 <div class="media">
-                                                    <img src="../assets/images/user-sm/6.jpg" alt="user">
+                                                    <img src="/assets/images/user-sm/6.jpg" alt="user">
                                                     <div class="media-body">
                                                         <div>
                                                             <h5 class="mt-0"><span>Bob Frapples</span> add their stories
@@ -1491,7 +1491,7 @@
                                         <li>
                                             <a href="#">
                                                 <div class="media">
-                                                    <img src="../assets/images/user-sm/7.jpg" alt="user">
+                                                    <img src="/assets/images/user-sm/7.jpg" alt="user">
                                                     <div class="media-body">
                                                         <div>
                                                             <h5 class="mt-0"><span>Josephin water</span> have birthday
@@ -1506,7 +1506,7 @@
                                         <li>
                                             <a href="#">
                                                 <div class="media">
-                                                    <img src="../assets/images/user-sm/2.jpg" alt="user">
+                                                    <img src="/assets/images/user-sm/2.jpg" alt="user">
                                                     <div class="media-body">
                                                         <div>
                                                             <h5 class="mt-0"><span>Petey Cruiser</span> added a new
@@ -1530,7 +1530,7 @@
                                     data-feather="user"></i>
                                 <div class="media d-none d-sm-flex">
                                     <div class="user-img">
-                                        <img src="../assets/images/user-sm/1.jpg"
+                                        <img src="/assets/images/user-sm/1.jpg"
                                             class="img-fluid blur-up lazyload bg-img" alt="user">
                                         <span class="available-stats online"></span>
                                     </div>
@@ -1693,16 +1693,16 @@
                     <span class="count">2</span>
                     <ul class="vertical-slide-3 no-arrow">
                         <li>
-                            <a href="#"><img src="../assets/images/icon/game/1.jpg" alt=""></a>
+                            <a href="#"><img src="/assets/images/icon/game/1.jpg" alt=""></a>
                         </li>
                         <li>
-                            <a href="#"><img src="../assets/images/icon/game/2.jpg" alt=""></a>
+                            <a href="#"><img src="/assets/images/icon/game/2.jpg" alt=""></a>
                         </li>
                         <li>
-                            <a href="#"><img src="../assets/images/icon/game/3.jpg" alt=""></a>
+                            <a href="#"><img src="/assets/images/icon/game/3.jpg" alt=""></a>
                         </li>
                         <li>
-                            <a href="#"><img src="../assets/images/icon/game/4.jpg" alt=""></a>
+                            <a href="#"><img src="/assets/images/icon/game/4.jpg" alt=""></a>
                         </li>
                     </ul>
                 </li>
@@ -1724,11 +1724,11 @@
                     <div>
                         <div class="story-box add-box">
                             <div>
-                                <img src="../assets/images/story-bg.jpg" class="img-fluid blur-up lazyload bg-img"
+                                <img src="/assets/images/story-bg.jpg" class="img-fluid blur-up lazyload bg-img"
                                     alt="">
                                 <div class="add-icon">
                                     <div class="icon">
-                                        <img src="../assets/images/icon/plus.png" class="img-fluid blur-up lazyload"
+                                        <img src="/assets/images/icon/plus.png" class="img-fluid blur-up lazyload"
                                             alt="plus">
                                     </div>
                                     <h6>add stories</h6>
@@ -1740,7 +1740,7 @@
                         <div class="story-box" data-bs-toggle="modal" data-bs-target="#storyModel">
                             <div class="adaptive-overlay orange-overlay"></div>
                             <div class="story-bg">
-                                <img src="../assets/images/story/6.jpg" class="img-fluid bg-img"
+                                <img src="/assets/images/story/6.jpg" class="img-fluid bg-img"
                                     data-adaptive-background='1' alt="">
                             </div>
                             <div class="story-content">
@@ -1772,7 +1772,7 @@
                         <div class="story-box" data-bs-toggle="modal" data-bs-target="#storyModel">
                             <div class="adaptive-overlay pink-overlay"></div>
                             <div class="story-bg">
-                                <img src="../assets/images/story/2.jpg" class="img-fluid bg-img"
+                                <img src="/assets/images/story/2.jpg" class="img-fluid bg-img"
                                     data-adaptive-background='1' alt="">
                             </div>
                             <div class="story-content">
@@ -1804,7 +1804,7 @@
                         <div class="story-box" data-bs-toggle="modal" data-bs-target="#storyModel">
                             <div class="adaptive-overlay skin-overlay"></div>
                             <div class="story-bg">
-                                <img src="../assets/images/story/1.jpg" class="img-fluid bg-img"
+                                <img src="/assets/images/story/1.jpg" class="img-fluid bg-img"
                                     data-adaptive-background='1' alt="">
                             </div>
                             <div class="story-content">
@@ -1836,7 +1836,7 @@
                         <div class="story-box" data-bs-toggle="modal" data-bs-target="#storyModel">
                             <div class="adaptive-overlay yellow-overlay"></div>
                             <div class="story-bg">
-                                <img src="../assets/images/story/3.jpg" class="img-fluid bg-img"
+                                <img src="/assets/images/story/3.jpg" class="img-fluid bg-img"
                                     data-adaptive-background='1' alt="">
                             </div>
                             <div class="story-content">
@@ -1868,7 +1868,7 @@
                         <div class="story-box" data-bs-toggle="modal" data-bs-target="#storyModel">
                             <div class="adaptive-overlay skin-overlay"></div>
                             <div class="story-bg">
-                                <img src="../assets/images/story/5.jpg" class="img-fluid bg-img"
+                                <img src="/assets/images/story/5.jpg" class="img-fluid bg-img"
                                     data-adaptive-background='1' alt="">
                             </div>
                             <div class="story-content">
@@ -1900,7 +1900,7 @@
                         <div class="story-box" data-bs-toggle="modal" data-bs-target="#storyModel">
                             <div class="adaptive-overlay pink-overlay"></div>
                             <div class="story-bg">
-                                <img src="../assets/images/story/4.jpg" class="img-fluid bg-img"
+                                <img src="/assets/images/story/4.jpg" class="img-fluid bg-img"
                                     data-adaptive-background='1' alt="">
                             </div>
                             <div class="story-content">
@@ -1932,7 +1932,7 @@
                         <div class="story-box" data-bs-toggle="modal" data-bs-target="#storyModel">
                             <div class="adaptive-overlay blue-overlay"></div>
                             <div class="story-bg">
-                                <img src="../assets/images/story/7.jpg" class="img-fluid bg-img"
+                                <img src="/assets/images/story/7.jpg" class="img-fluid bg-img"
                                     data-adaptive-background='1' alt="">
                             </div>
                             <div class="story-content">
@@ -1964,7 +1964,7 @@
                         <div class="story-box" data-bs-toggle="modal" data-bs-target="#storyModel">
                             <div class="adaptive-overlay"></div>
                             <div class="story-bg">
-                                <img src="../assets/images/story/8.jpg" class="img-fluid bg-img"
+                                <img src="/assets/images/story/8.jpg" class="img-fluid bg-img"
                                     data-adaptive-background='1' alt="">
                             </div>
                             <div class="story-content">
@@ -2033,11 +2033,11 @@
                                 <a href="profile.html" class="image-section">
                                     <div class="profile-img">
                                         <div>
-                                            <img src="../assets/images/story/8.jpg"
+                                            <img src="/assets/images/story/8.jpg"
                                                 class="img-fluid blur-up lazyload bg-img" alt="profile">
                                         </div>
                                         <span class="stats">
-                                            <img src="../assets/images/icon/verified.png"
+                                            <img src="/assets/images/icon/verified.png"
                                                 class="img-fluid blur-up lazyload" alt="verified">
                                         </span>
                                     </div>
@@ -2115,7 +2115,7 @@
                                         <div class="story-box">
                                             <div class="adaptive-overlay pink-overlay"></div>
                                             <div class="story-bg">
-                                                <img src="../assets/images/story/2.jpg" class="img-fluid bg-img"
+                                                <img src="/assets/images/story/2.jpg" class="img-fluid bg-img"
                                                     data-adaptive-background='1' alt="">
                                             </div>
                                             <div class="story-content">
@@ -2128,7 +2128,7 @@
                                         <div class="story-box">
                                             <div class="adaptive-overlay blue-overlay"></div>
                                             <div class="story-bg">
-                                                <img src="../assets/images/story/7.jpg" class="img-fluid bg-img"
+                                                <img src="/assets/images/story/7.jpg" class="img-fluid bg-img"
                                                     data-adaptive-background='1' alt="">
                                             </div>
                                             <div class="story-content">
@@ -2141,7 +2141,7 @@
                                         <div class="story-box">
                                             <div class="adaptive-overlay skin-overlay"></div>
                                             <div class="story-bg">
-                                                <img src="../assets/images/story/1.jpg" class="img-fluid bg-img"
+                                                <img src="/assets/images/story/1.jpg" class="img-fluid bg-img"
                                                     data-adaptive-background='1' alt="">
                                             </div>
                                             <div class="story-content">
@@ -2199,7 +2199,7 @@
                                         <li>
                                             <div class="media">
                                                 <div class="img-part">
-                                                    <img src="../assets/images/pages-logo/1.jpg"
+                                                    <img src="/assets/images/pages-logo/1.jpg"
                                                         class="img-fluid blur-up lazyload bg-img" alt="">
                                                 </div>
                                                 <div class="media-body">
@@ -2217,7 +2217,7 @@
                                         <li>
                                             <div class="media">
                                                 <div class="img-part">
-                                                    <img src="../assets/images/pages-logo/2.jpg"
+                                                    <img src="/assets/images/pages-logo/2.jpg"
                                                         class="img-fluid blur-up lazyload bg-img" alt="">
                                                 </div>
                                                 <div class="media-body">
@@ -2235,7 +2235,7 @@
                                         <li>
                                             <div class="media">
                                                 <div class="img-part">
-                                                    <img src="../assets/images/pages-logo/3.jpg"
+                                                    <img src="/assets/images/pages-logo/3.jpg"
                                                         class="img-fluid blur-up lazyload bg-img" alt="">
                                                 </div>
                                                 <div class="media-body">
@@ -2253,7 +2253,7 @@
                                         <li>
                                             <div class="media">
                                                 <div class="img-part">
-                                                    <img src="../assets/images/pages-logo/4.jpg"
+                                                    <img src="/assets/images/pages-logo/4.jpg"
                                                         class="img-fluid blur-up lazyload bg-img" alt="">
                                                 </div>
                                                 <div class="media-body">
@@ -2271,7 +2271,7 @@
                                         <li>
                                             <div class="media">
                                                 <div class="img-part">
-                                                    <img src="../assets/images/pages-logo/5.jpg"
+                                                    <img src="/assets/images/pages-logo/5.jpg"
                                                         class="img-fluid blur-up lazyload bg-img" alt="">
                                                 </div>
                                                 <div class="media-body">
@@ -2333,7 +2333,7 @@
                                     <h6>21 march 2021 (monday) <span>denmark</span></h6>
                                 </div>
                                 <div class="flaks-img">
-                                    <img src="../assets/images/icon/snow-flaks.png" class="img-fluid blur-up lazyload"
+                                    <img src="/assets/images/icon/snow-flaks.png" class="img-fluid blur-up lazyload"
                                         alt="snow">
                                 </div>
                                 <div class="snowflakes" aria-hidden="true">
@@ -2452,7 +2452,7 @@
                                 <div class="search-input input-style icon-right">
                                     <input type="text" class="form-control enable" placeholder="write something here..">
                                     <a href="#">
-                                        <img src="../assets/images/icon/translate.png"
+                                        <img src="/assets/images/icon/translate.png"
                                             class="img-fluid blur-up lazyload icon" alt="translate">
                                     </a>
                                 </div>
@@ -2558,8 +2558,8 @@
                                     <div class="profile">
                                         <div class="media">
                                             <a class="popover-cls user-img" data-bs-toggle="popover" data-placement="right"
-                                                data-name="sufiya eliza" data-img="../assets/images/user-sm/1.jpg">
-                                                <img src="../assets/images/user-sm/1.jpg"
+                                                data-name="sufiya eliza" data-img="/assets/images/user-sm/1.jpg">
+                                                <img src="/assets/images/user-sm/1.jpg"
                                                     class="img-fluid blur-up lazyload bg-img" alt="user">
                                             </a>
                                             <div class="media-body">
@@ -2598,7 +2598,7 @@
                                 </div>
                                 <div class="post-details">
                                     <div class="img-wrapper">
-                                        <img src="../assets/images/post/1.jpg" class="img-fluid blur-up lazyload"
+                                        <img src="/assets/images/post/1.jpg" class="img-fluid blur-up lazyload"
                                             alt="">
                                         <div class="controler">
                                             <a href="#" class="play" data-bs-toggle="modal" data-bs-target="#videoPlayer">
@@ -2623,18 +2623,18 @@
                                         <div class="people-likes">
                                             <ul>
                                                 <li class="popover-cls" data-bs-toggle="popover" data-placement="right"
-                                                    data-name="sufiya eliza" data-img="../assets/images/user-sm/1.jpg">
-                                                    <img src="../assets/images/user-sm/1.jpg"
+                                                    data-name="sufiya eliza" data-img="/assets/images/user-sm/1.jpg">
+                                                    <img src="/assets/images/user-sm/1.jpg"
                                                         class="img-fluid blur-up lazyload bg-img" alt="">
                                                 </li>
                                                 <li class="popover-cls" data-bs-toggle="popover" data-placement="right"
-                                                    data-name="sufiya eliza" data-img="../assets/images/user-sm/2.jpg">
-                                                    <img src="../assets/images/user-sm/2.jpg"
+                                                    data-name="sufiya eliza" data-img="/assets/images/user-sm/2.jpg">
+                                                    <img src="/assets/images/user-sm/2.jpg"
                                                         class="img-fluid blur-up lazyload bg-img" alt="">
                                                 </li>
                                                 <li class="popover-cls" data-bs-toggle="popover" data-placement="right"
-                                                    data-name="sufiya eliza" data-img="../assets/images/user-sm/3.jpg">
-                                                    <img src="../assets/images/user-sm/3.jpg"
+                                                    data-name="sufiya eliza" data-img="/assets/images/user-sm/3.jpg">
+                                                    <img src="/assets/images/user-sm/3.jpg"
                                                         class="img-fluid blur-up lazyload bg-img" alt="">
                                                 </li>
                                             </ul>
@@ -2785,8 +2785,8 @@
                                                 <div class="media">
                                                     <a href="#" class="user-img popover-cls" data-bs-toggle="popover"
                                                         data-placement="right" data-name="Pabelo mukrani"
-                                                        data-img="../assets/images/user-sm/2.jpg">
-                                                        <img src="../assets/images/user-sm/2.jpg"
+                                                        data-img="/assets/images/user-sm/2.jpg">
+                                                        <img src="/assets/images/user-sm/2.jpg"
                                                             class="img-fluid blur-up lazyload bg-img" alt="user">
                                                     </a>
                                                     <div class="media-body">
@@ -2810,8 +2810,8 @@
                                                     <div class="media">
                                                         <a href="#" class="user-img popover-cls" data-bs-toggle="popover"
                                                             data-placement="right" data-name="sufiya elija"
-                                                            data-img="../assets/images/user-sm/3.jpg">
-                                                            <img src="../assets/images/user-sm/3.jpg"
+                                                            data-img="/assets/images/user-sm/3.jpg">
+                                                            <img src="/assets/images/user-sm/3.jpg"
                                                                 class="img-fluid blur-up lazyload bg-img" alt="user">
                                                         </a>
                                                         <div class="media-body">
@@ -2832,8 +2832,8 @@
                                                     <div class="media">
                                                         <a href="#" class="user-img popover-cls" data-bs-toggle="popover"
                                                             data-placement="right" data-name="sufiya eliza"
-                                                            data-img="../assets/images/user-sm/4.jpg">
-                                                            <img src="../assets/images/user-sm/4.jpg"
+                                                            data-img="/assets/images/user-sm/4.jpg">
+                                                            <img src="/assets/images/user-sm/4.jpg"
                                                                 class="img-fluid blur-up lazyload bg-img" alt="user">
                                                         </a>
                                                         <div class="media-body">
@@ -2861,8 +2861,8 @@
                                                 <div class="media">
                                                     <a href="#" class="user-img popover-cls" data-bs-toggle="popover"
                                                         data-placement="right" data-name="pabelo mukrani"
-                                                        data-img="../assets/images/user-sm/2.jpg">
-                                                        <img src="../assets/images/user-sm/2.jpg"
+                                                        data-img="/assets/images/user-sm/2.jpg">
+                                                        <img src="/assets/images/user-sm/2.jpg"
                                                             class="img-fluid blur-up lazyload bg-img" alt="user">
                                                     </a>
                                                     <div class="media-body">
@@ -2908,12 +2908,12 @@
                                                             <div class="image-section">
                                                                 <div class="profile-img">
                                                                     <div>
-                                                                        <img src="../assets/images/user-sm/1.jpg"
+                                                                        <img src="/assets/images/user-sm/1.jpg"
                                                                             class="img-fluid blur-up lazyload bg-img"
                                                                             alt="profile">
                                                                     </div>
                                                                     <span class="stats">
-                                                                        <img src="../assets/images/icon/verified.png"
+                                                                        <img src="/assets/images/icon/verified.png"
                                                                             class="img-fluid blur-up lazyload"
                                                                             alt="verified">
                                                                     </span>
@@ -2945,12 +2945,12 @@
                                                             <div class="image-section">
                                                                 <div class="profile-img">
                                                                     <div>
-                                                                        <img src="../assets/images/user-sm/2.jpg"
+                                                                        <img src="/assets/images/user-sm/2.jpg"
                                                                             class="img-fluid blur-up lazyload bg-img"
                                                                             alt="profile">
                                                                     </div>
                                                                     <span class="stats">
-                                                                        <img src="../assets/images/icon/verified.png"
+                                                                        <img src="/assets/images/icon/verified.png"
                                                                             class="img-fluid blur-up lazyload"
                                                                             alt="verified">
                                                                     </span>
@@ -2982,12 +2982,12 @@
                                                             <div class="image-section">
                                                                 <div class="profile-img">
                                                                     <div>
-                                                                        <img src="../assets/images/user-sm/3.jpg"
+                                                                        <img src="/assets/images/user-sm/3.jpg"
                                                                             class="img-fluid blur-up lazyload bg-img"
                                                                             alt="profile">
                                                                     </div>
                                                                     <span class="stats">
-                                                                        <img src="../assets/images/icon/verified.png"
+                                                                        <img src="/assets/images/icon/verified.png"
                                                                             class="img-fluid blur-up lazyload"
                                                                             alt="verified">
                                                                     </span>
@@ -3019,12 +3019,12 @@
                                                             <div class="image-section">
                                                                 <div class="profile-img">
                                                                     <div>
-                                                                        <img src="../assets/images/user-sm/4.jpg"
+                                                                        <img src="/assets/images/user-sm/4.jpg"
                                                                             class="img-fluid blur-up lazyload bg-img"
                                                                             alt="profile">
                                                                     </div>
                                                                     <span class="stats">
-                                                                        <img src="../assets/images/icon/verified.png"
+                                                                        <img src="/assets/images/icon/verified.png"
                                                                             class="img-fluid blur-up lazyload"
                                                                             alt="verified">
                                                                     </span>
@@ -3060,8 +3060,8 @@
                                     <div class="profile">
                                         <div class="media">
                                             <a class="popover-cls user-img" data-bs-toggle="popover" data-placement="right"
-                                                data-name="sufiya eliza" data-img="../assets/images/user-sm/1.jpg">
-                                                <img src="../assets/images/user-sm/1.jpg"
+                                                data-name="sufiya eliza" data-img="/assets/images/user-sm/1.jpg">
+                                                <img src="/assets/images/user-sm/1.jpg"
                                                     class="img-fluid blur-up lazyload bg-img" alt="user">
                                             </a>
                                             <div class="media-body">
@@ -3108,18 +3108,18 @@
                                         <div class="people-likes">
                                             <ul>
                                                 <li class="popover-cls" data-bs-toggle="popover" data-placement="right"
-                                                    data-name="sufiya eliza" data-img="../assets/images/user-sm/1.jpg">
-                                                    <img src="../assets/images/user-sm/1.jpg"
+                                                    data-name="sufiya eliza" data-img="/assets/images/user-sm/1.jpg">
+                                                    <img src="/assets/images/user-sm/1.jpg"
                                                         class="img-fluid blur-up lazyload bg-img" alt="">
                                                 </li>
                                                 <li class="popover-cls" data-bs-toggle="popover" data-placement="right"
-                                                    data-name="sufiya eliza" data-img="../assets/images/user-sm/2.jpg">
-                                                    <img src="../assets/images/user-sm/2.jpg"
+                                                    data-name="sufiya eliza" data-img="/assets/images/user-sm/2.jpg">
+                                                    <img src="/assets/images/user-sm/2.jpg"
                                                         class="img-fluid blur-up lazyload bg-img" alt="">
                                                 </li>
                                                 <li class="popover-cls" data-bs-toggle="popover" data-placement="right"
-                                                    data-name="sufiya eliza" data-img="../assets/images/user-sm/3.jpg">
-                                                    <img src="../assets/images/user-sm/3.jpg"
+                                                    data-name="sufiya eliza" data-img="/assets/images/user-sm/3.jpg">
+                                                    <img src="/assets/images/user-sm/3.jpg"
                                                         class="img-fluid blur-up lazyload bg-img" alt="">
                                                 </li>
                                             </ul>
@@ -3270,8 +3270,8 @@
                                                 <div class="media">
                                                     <a href="#" class="user-img popover-cls" data-bs-toggle="popover"
                                                         data-placement="right" data-name="Pabelo mukrani"
-                                                        data-img="../assets/images/user-sm/2.jpg">
-                                                        <img src="../assets/images/user-sm/2.jpg"
+                                                        data-img="/assets/images/user-sm/2.jpg">
+                                                        <img src="/assets/images/user-sm/2.jpg"
                                                             class="img-fluid blur-up lazyload bg-img" alt="user">
                                                     </a>
                                                     <div class="media-body">
@@ -3295,8 +3295,8 @@
                                                     <div class="media">
                                                         <a href="#" class="user-img popover-cls" data-bs-toggle="popover"
                                                             data-placement="right" data-name="sufiya elija"
-                                                            data-img="../assets/images/user-sm/3.jpg">
-                                                            <img src="../assets/images/user-sm/3.jpg"
+                                                            data-img="/assets/images/user-sm/3.jpg">
+                                                            <img src="/assets/images/user-sm/3.jpg"
                                                                 class="img-fluid blur-up lazyload bg-img" alt="user">
                                                         </a>
                                                         <div class="media-body">
@@ -3317,8 +3317,8 @@
                                                     <div class="media">
                                                         <a href="#" class="user-img popover-cls" data-bs-toggle="popover"
                                                             data-placement="right" data-name="sufiya eliza"
-                                                            data-img="../assets/images/user-sm/4.jpg">
-                                                            <img src="../assets/images/user-sm/4.jpg"
+                                                            data-img="/assets/images/user-sm/4.jpg">
+                                                            <img src="/assets/images/user-sm/4.jpg"
                                                                 class="img-fluid blur-up lazyload bg-img" alt="user">
                                                         </a>
                                                         <div class="media-body">
@@ -3346,8 +3346,8 @@
                                                 <div class="media">
                                                     <a href="#" class="user-img popover-cls" data-bs-toggle="popover"
                                                         data-placement="right" data-name="pabelo mukrani"
-                                                        data-img="../assets/images/user-sm/2.jpg">
-                                                        <img src="../assets/images/user-sm/2.jpg"
+                                                        data-img="/assets/images/user-sm/2.jpg">
+                                                        <img src="/assets/images/user-sm/2.jpg"
                                                             class="img-fluid blur-up lazyload bg-img" alt="user">
                                                     </a>
                                                     <div class="media-body">
@@ -3387,8 +3387,8 @@
                                     <div class="profile">
                                         <div class="media">
                                             <a class="popover-cls user-img" data-bs-toggle="popover" data-placement="right"
-                                                data-name="sufiya eliza" data-img="../assets/images/user-sm/1.jpg">
-                                                <img src="../assets/images/user-sm/1.jpg"
+                                                data-name="sufiya eliza" data-img="/assets/images/user-sm/1.jpg">
+                                                <img src="/assets/images/user-sm/1.jpg"
                                                     class="img-fluid blur-up lazyload bg-img" alt="user">
                                             </a>
                                             <div class="media-body">
@@ -3441,18 +3441,18 @@
                                         <div class="people-likes">
                                             <ul>
                                                 <li class="popover-cls" data-bs-toggle="popover" data-placement="right"
-                                                    data-name="sufiya eliza" data-img="../assets/images/user-sm/1.jpg">
-                                                    <img src="../assets/images/user-sm/1.jpg"
+                                                    data-name="sufiya eliza" data-img="/assets/images/user-sm/1.jpg">
+                                                    <img src="/assets/images/user-sm/1.jpg"
                                                         class="img-fluid blur-up lazyload bg-img" alt="">
                                                 </li>
                                                 <li class="popover-cls" data-bs-toggle="popover" data-placement="right"
-                                                    data-name="sufiya eliza" data-img="../assets/images/user-sm/2.jpg">
-                                                    <img src="../assets/images/user-sm/2.jpg"
+                                                    data-name="sufiya eliza" data-img="/assets/images/user-sm/2.jpg">
+                                                    <img src="/assets/images/user-sm/2.jpg"
                                                         class="img-fluid blur-up lazyload bg-img" alt="">
                                                 </li>
                                                 <li class="popover-cls" data-bs-toggle="popover" data-placement="right"
-                                                    data-name="sufiya eliza" data-img="../assets/images/user-sm/3.jpg">
-                                                    <img src="../assets/images/user-sm/3.jpg"
+                                                    data-name="sufiya eliza" data-img="/assets/images/user-sm/3.jpg">
+                                                    <img src="/assets/images/user-sm/3.jpg"
                                                         class="img-fluid blur-up lazyload bg-img" alt="">
                                                 </li>
                                             </ul>
@@ -3603,8 +3603,8 @@
                                                 <div class="media">
                                                     <a href="#" class="user-img popover-cls" data-bs-toggle="popover"
                                                         data-placement="right" data-name="Pabelo mukrani"
-                                                        data-img="../assets/images/user-sm/2.jpg">
-                                                        <img src="../assets/images/user-sm/2.jpg"
+                                                        data-img="/assets/images/user-sm/2.jpg">
+                                                        <img src="/assets/images/user-sm/2.jpg"
                                                             class="img-fluid blur-up lazyload bg-img" alt="user">
                                                     </a>
                                                     <div class="media-body">
@@ -3628,8 +3628,8 @@
                                                     <div class="media">
                                                         <a href="#" class="user-img popover-cls" data-bs-toggle="popover"
                                                             data-placement="right" data-name="sufiya elija"
-                                                            data-img="../assets/images/user-sm/3.jpg">
-                                                            <img src="../assets/images/user-sm/3.jpg"
+                                                            data-img="/assets/images/user-sm/3.jpg">
+                                                            <img src="/assets/images/user-sm/3.jpg"
                                                                 class="img-fluid blur-up lazyload bg-img" alt="user">
                                                         </a>
                                                         <div class="media-body">
@@ -3650,8 +3650,8 @@
                                                     <div class="media">
                                                         <a href="#" class="user-img popover-cls" data-bs-toggle="popover"
                                                             data-placement="right" data-name="sufiya eliza"
-                                                            data-img="../assets/images/user-sm/4.jpg">
-                                                            <img src="../assets/images/user-sm/4.jpg"
+                                                            data-img="/assets/images/user-sm/4.jpg">
+                                                            <img src="/assets/images/user-sm/4.jpg"
                                                                 class="img-fluid blur-up lazyload bg-img" alt="user">
                                                         </a>
                                                         <div class="media-body">
@@ -3679,8 +3679,8 @@
                                                 <div class="media">
                                                     <a href="#" class="user-img popover-cls" data-bs-toggle="popover"
                                                         data-placement="right" data-name="pabelo mukrani"
-                                                        data-img="../assets/images/user-sm/2.jpg">
-                                                        <img src="../assets/images/user-sm/2.jpg"
+                                                        data-img="/assets/images/user-sm/2.jpg">
+                                                        <img src="/assets/images/user-sm/2.jpg"
                                                             class="img-fluid blur-up lazyload bg-img" alt="user">
                                                     </a>
                                                     <div class="media-body">
@@ -3720,8 +3720,8 @@
                                     <div class="profile">
                                         <div class="media">
                                             <a class="popover-cls user-img" data-bs-toggle="popover" data-placement="right"
-                                                data-name="sufiya eliza" data-img="../assets/images/user-sm/1.jpg">
-                                                <img src="../assets/images/user-sm/1.jpg"
+                                                data-name="sufiya eliza" data-img="/assets/images/user-sm/1.jpg">
+                                                <img src="/assets/images/user-sm/1.jpg"
                                                     class="img-fluid blur-up lazyload bg-img" alt="user">
                                             </a>
                                             <div class="media-body">
@@ -3768,18 +3768,18 @@
                                         <div class="people-likes">
                                             <ul>
                                                 <li class="popover-cls" data-bs-toggle="popover" data-placement="right"
-                                                    data-name="sufiya eliza" data-img="../assets/images/user-sm/1.jpg">
-                                                    <img src="../assets/images/user-sm/1.jpg"
+                                                    data-name="sufiya eliza" data-img="/assets/images/user-sm/1.jpg">
+                                                    <img src="/assets/images/user-sm/1.jpg"
                                                         class="img-fluid blur-up lazyload bg-img" alt="">
                                                 </li>
                                                 <li class="popover-cls" data-bs-toggle="popover" data-placement="right"
-                                                    data-name="sufiya eliza" data-img="../assets/images/user-sm/2.jpg">
-                                                    <img src="../assets/images/user-sm/2.jpg"
+                                                    data-name="sufiya eliza" data-img="/assets/images/user-sm/2.jpg">
+                                                    <img src="/assets/images/user-sm/2.jpg"
                                                         class="img-fluid blur-up lazyload bg-img" alt="">
                                                 </li>
                                                 <li class="popover-cls" data-bs-toggle="popover" data-placement="right"
-                                                    data-name="sufiya eliza" data-img="../assets/images/user-sm/3.jpg">
-                                                    <img src="../assets/images/user-sm/3.jpg"
+                                                    data-name="sufiya eliza" data-img="/assets/images/user-sm/3.jpg">
+                                                    <img src="/assets/images/user-sm/3.jpg"
                                                         class="img-fluid blur-up lazyload bg-img" alt="">
                                                 </li>
                                             </ul>
@@ -3930,8 +3930,8 @@
                                                 <div class="media">
                                                     <a href="#" class="user-img popover-cls" data-bs-toggle="popover"
                                                         data-placement="right" data-name="Pabelo mukrani"
-                                                        data-img="../assets/images/user-sm/2.jpg">
-                                                        <img src="../assets/images/user-sm/2.jpg"
+                                                        data-img="/assets/images/user-sm/2.jpg">
+                                                        <img src="/assets/images/user-sm/2.jpg"
                                                             class="img-fluid blur-up lazyload bg-img" alt="user">
                                                     </a>
                                                     <div class="media-body">
@@ -3955,8 +3955,8 @@
                                                     <div class="media">
                                                         <a href="#" class="user-img popover-cls" data-bs-toggle="popover"
                                                             data-placement="right" data-name="sufiya elija"
-                                                            data-img="../assets/images/user-sm/3.jpg">
-                                                            <img src="../assets/images/user-sm/3.jpg"
+                                                            data-img="/assets/images/user-sm/3.jpg">
+                                                            <img src="/assets/images/user-sm/3.jpg"
                                                                 class="img-fluid blur-up lazyload bg-img" alt="user">
                                                         </a>
                                                         <div class="media-body">
@@ -3977,8 +3977,8 @@
                                                     <div class="media">
                                                         <a href="#" class="user-img popover-cls" data-bs-toggle="popover"
                                                             data-placement="right" data-name="sufiya eliza"
-                                                            data-img="../assets/images/user-sm/4.jpg">
-                                                            <img src="../assets/images/user-sm/4.jpg"
+                                                            data-img="/assets/images/user-sm/4.jpg">
+                                                            <img src="/assets/images/user-sm/4.jpg"
                                                                 class="img-fluid blur-up lazyload bg-img" alt="user">
                                                         </a>
                                                         <div class="media-body">
@@ -4006,8 +4006,8 @@
                                                 <div class="media">
                                                     <a href="#" class="user-img popover-cls" data-bs-toggle="popover"
                                                         data-placement="right" data-name="pabelo mukrani"
-                                                        data-img="../assets/images/user-sm/2.jpg">
-                                                        <img src="../assets/images/user-sm/2.jpg"
+                                                        data-img="/assets/images/user-sm/2.jpg">
+                                                        <img src="/assets/images/user-sm/2.jpg"
                                                             class="img-fluid blur-up lazyload bg-img" alt="user">
                                                     </a>
                                                     <div class="media-body">
@@ -4047,8 +4047,8 @@
                                     <div class="profile">
                                         <div class="media">
                                             <a class="popover-cls user-img" data-bs-toggle="popover" data-placement="right"
-                                                data-name="sufiya eliza" data-img="../assets/images/user-sm/1.jpg">
-                                                <img src="../assets/images/user-sm/1.jpg"
+                                                data-name="sufiya eliza" data-img="/assets/images/user-sm/1.jpg">
+                                                <img src="/assets/images/user-sm/1.jpg"
                                                     class="img-fluid blur-up lazyload bg-img" alt="user">
                                             </a>
                                             <div class="media-body">
@@ -4085,7 +4085,7 @@
                                 </div>
                                 <div class="post-details">
                                     <div class="img-wrapper">
-                                        <img src="../assets/images/post/2.jpg" class="img-fluid blur-up lazyload"
+                                        <img src="/assets/images/post/2.jpg" class="img-fluid blur-up lazyload"
                                             alt="">
                                     </div>
                                     <div class="detail-box">
@@ -4099,18 +4099,18 @@
                                         <div class="people-likes">
                                             <ul>
                                                 <li class="popover-cls" data-bs-toggle="popover" data-placement="right"
-                                                    data-name="sufiya eliza" data-img="../assets/images/user-sm/1.jpg">
-                                                    <img src="../assets/images/user-sm/1.jpg"
+                                                    data-name="sufiya eliza" data-img="/assets/images/user-sm/1.jpg">
+                                                    <img src="/assets/images/user-sm/1.jpg"
                                                         class="img-fluid blur-up lazyload bg-img" alt="">
                                                 </li>
                                                 <li class="popover-cls" data-bs-toggle="popover" data-placement="right"
-                                                    data-name="sufiya eliza" data-img="../assets/images/user-sm/2.jpg">
-                                                    <img src="../assets/images/user-sm/2.jpg"
+                                                    data-name="sufiya eliza" data-img="/assets/images/user-sm/2.jpg">
+                                                    <img src="/assets/images/user-sm/2.jpg"
                                                         class="img-fluid blur-up lazyload bg-img" alt="">
                                                 </li>
                                                 <li class="popover-cls" data-bs-toggle="popover" data-placement="right"
-                                                    data-name="sufiya eliza" data-img="../assets/images/user-sm/3.jpg">
-                                                    <img src="../assets/images/user-sm/3.jpg"
+                                                    data-name="sufiya eliza" data-img="/assets/images/user-sm/3.jpg">
+                                                    <img src="/assets/images/user-sm/3.jpg"
                                                         class="img-fluid blur-up lazyload bg-img" alt="">
                                                 </li>
                                             </ul>
@@ -4261,8 +4261,8 @@
                                                 <div class="media">
                                                     <a href="#" class="user-img popover-cls" data-bs-toggle="popover"
                                                         data-placement="right" data-name="Pabelo mukrani"
-                                                        data-img="../assets/images/user-sm/2.jpg">
-                                                        <img src="../assets/images/user-sm/2.jpg"
+                                                        data-img="/assets/images/user-sm/2.jpg">
+                                                        <img src="/assets/images/user-sm/2.jpg"
                                                             class="img-fluid blur-up lazyload bg-img" alt="user">
                                                     </a>
                                                     <div class="media-body">
@@ -4286,8 +4286,8 @@
                                                     <div class="media">
                                                         <a href="#" class="user-img popover-cls" data-bs-toggle="popover"
                                                             data-placement="right" data-name="sufiya elija"
-                                                            data-img="../assets/images/user-sm/3.jpg">
-                                                            <img src="../assets/images/user-sm/3.jpg"
+                                                            data-img="/assets/images/user-sm/3.jpg">
+                                                            <img src="/assets/images/user-sm/3.jpg"
                                                                 class="img-fluid blur-up lazyload bg-img" alt="user">
                                                         </a>
                                                         <div class="media-body">
@@ -4308,8 +4308,8 @@
                                                     <div class="media">
                                                         <a href="#" class="user-img popover-cls" data-bs-toggle="popover"
                                                             data-placement="right" data-name="sufiya eliza"
-                                                            data-img="../assets/images/user-sm/4.jpg">
-                                                            <img src="../assets/images/user-sm/4.jpg"
+                                                            data-img="/assets/images/user-sm/4.jpg">
+                                                            <img src="/assets/images/user-sm/4.jpg"
                                                                 class="img-fluid blur-up lazyload bg-img" alt="user">
                                                         </a>
                                                         <div class="media-body">
@@ -4337,8 +4337,8 @@
                                                 <div class="media">
                                                     <a href="#" class="user-img popover-cls" data-bs-toggle="popover"
                                                         data-placement="right" data-name="pabelo mukrani"
-                                                        data-img="../assets/images/user-sm/2.jpg">
-                                                        <img src="../assets/images/user-sm/2.jpg"
+                                                        data-img="/assets/images/user-sm/2.jpg">
+                                                        <img src="/assets/images/user-sm/2.jpg"
                                                             class="img-fluid blur-up lazyload bg-img" alt="user">
                                                     </a>
                                                     <div class="media-body">
@@ -4378,8 +4378,8 @@
                                     <div class="profile">
                                         <div class="media">
                                             <a class="popover-cls user-img" data-bs-toggle="popover" data-placement="right"
-                                                data-name="sufiya eliza" data-img="../assets/images/user-sm/1.jpg">
-                                                <img src="../assets/images/user-sm/1.jpg"
+                                                data-name="sufiya eliza" data-img="/assets/images/user-sm/1.jpg">
+                                                <img src="/assets/images/user-sm/1.jpg"
                                                     class="img-fluid blur-up lazyload bg-img" alt="user">
                                             </a>
                                             <div class="media-body">
@@ -4426,18 +4426,18 @@
                                         <div class="people-likes">
                                             <ul>
                                                 <li class="popover-cls" data-bs-toggle="popover" data-placement="right"
-                                                    data-name="sufiya eliza" data-img="../assets/images/user-sm/1.jpg">
-                                                    <img src="../assets/images/user-sm/1.jpg"
+                                                    data-name="sufiya eliza" data-img="/assets/images/user-sm/1.jpg">
+                                                    <img src="/assets/images/user-sm/1.jpg"
                                                         class="img-fluid blur-up lazyload bg-img" alt="">
                                                 </li>
                                                 <li class="popover-cls" data-bs-toggle="popover" data-placement="right"
-                                                    data-name="sufiya eliza" data-img="../assets/images/user-sm/2.jpg">
-                                                    <img src="../assets/images/user-sm/2.jpg"
+                                                    data-name="sufiya eliza" data-img="/assets/images/user-sm/2.jpg">
+                                                    <img src="/assets/images/user-sm/2.jpg"
                                                         class="img-fluid blur-up lazyload bg-img" alt="">
                                                 </li>
                                                 <li class="popover-cls" data-bs-toggle="popover" data-placement="right"
-                                                    data-name="sufiya eliza" data-img="../assets/images/user-sm/3.jpg">
-                                                    <img src="../assets/images/user-sm/3.jpg"
+                                                    data-name="sufiya eliza" data-img="/assets/images/user-sm/3.jpg">
+                                                    <img src="/assets/images/user-sm/3.jpg"
                                                         class="img-fluid blur-up lazyload bg-img" alt="">
                                                 </li>
                                             </ul>
@@ -4588,8 +4588,8 @@
                                                 <div class="media">
                                                     <a href="#" class="user-img popover-cls" data-bs-toggle="popover"
                                                         data-placement="right" data-name="Pabelo mukrani"
-                                                        data-img="../assets/images/user-sm/2.jpg">
-                                                        <img src="../assets/images/user-sm/2.jpg"
+                                                        data-img="/assets/images/user-sm/2.jpg">
+                                                        <img src="/assets/images/user-sm/2.jpg"
                                                             class="img-fluid blur-up lazyload bg-img" alt="user">
                                                     </a>
                                                     <div class="media-body">
@@ -4613,8 +4613,8 @@
                                                     <div class="media">
                                                         <a href="#" class="user-img popover-cls" data-bs-toggle="popover"
                                                             data-placement="right" data-name="sufiya elija"
-                                                            data-img="../assets/images/user-sm/3.jpg">
-                                                            <img src="../assets/images/user-sm/3.jpg"
+                                                            data-img="/assets/images/user-sm/3.jpg">
+                                                            <img src="/assets/images/user-sm/3.jpg"
                                                                 class="img-fluid blur-up lazyload bg-img" alt="user">
                                                         </a>
                                                         <div class="media-body">
@@ -4635,8 +4635,8 @@
                                                     <div class="media">
                                                         <a href="#" class="user-img popover-cls" data-bs-toggle="popover"
                                                             data-placement="right" data-name="sufiya eliza"
-                                                            data-img="../assets/images/user-sm/4.jpg">
-                                                            <img src="../assets/images/user-sm/4.jpg"
+                                                            data-img="/assets/images/user-sm/4.jpg">
+                                                            <img src="/assets/images/user-sm/4.jpg"
                                                                 class="img-fluid blur-up lazyload bg-img" alt="user">
                                                         </a>
                                                         <div class="media-body">
@@ -4664,8 +4664,8 @@
                                                 <div class="media">
                                                     <a href="#" class="user-img popover-cls" data-bs-toggle="popover"
                                                         data-placement="right" data-name="pabelo mukrani"
-                                                        data-img="../assets/images/user-sm/2.jpg">
-                                                        <img src="../assets/images/user-sm/2.jpg"
+                                                        data-img="/assets/images/user-sm/2.jpg">
+                                                        <img src="/assets/images/user-sm/2.jpg"
                                                             class="img-fluid blur-up lazyload bg-img" alt="user">
                                                     </a>
                                                     <div class="media-body">
@@ -4713,7 +4713,7 @@
                     <div class="content-right">
                         <!-- birthday reminder -->
                         <div class="birthday-section">
-                            <img src="../assets/images/birthday-bg.jpg" class="img-fluid blur-up lazyload bg-img"
+                            <img src="/assets/images/birthday-bg.jpg" class="img-fluid blur-up lazyload bg-img"
                                 alt="birthday">
                             <div class="birthday-top">
                                 <div class="title">
@@ -4752,11 +4752,11 @@
                             <div class="birthday-content">
                                 <div class="image-section">
                                     <div class="icon">
-                                        <img src="../assets/images/icon/cake.png" class="img-fluid blur-up lazyload"
+                                        <img src="/assets/images/icon/cake.png" class="img-fluid blur-up lazyload"
                                             alt="cake">
                                     </div>
                                     <div class="center-profile">
-                                        <img src="../assets/images/user-sm/4.jpg"
+                                        <img src="/assets/images/user-sm/4.jpg"
                                             class="img-fluid blur-up lazyload bg-img" alt="user">
                                     </div>
                                     <div class="icon">
@@ -4826,7 +4826,7 @@
                                                 <div class="portfolio-image">
                                                     <a href="javascript:void(0)" data-bs-toggle="modal"
                                                         data-bs-target="#imageModel">
-                                                        <img src="../assets/images/story/1.jpg" alt=""
+                                                        <img src="/assets/images/story/1.jpg" alt=""
                                                             class="img-fluid blur-up lazyload bg-img">
                                                     </a>
                                                 </div>
@@ -4837,7 +4837,7 @@
                                                 <div class="portfolio-image">
                                                     <a href="javascript:void(0)" data-bs-toggle="modal"
                                                         data-bs-target="#imageModel">
-                                                        <img src="../assets/images/story/2.jpg" alt=""
+                                                        <img src="/assets/images/story/2.jpg" alt=""
                                                             class="img-fluid blur-up lazyload bg-img">
                                                     </a>
                                                 </div>
@@ -4848,7 +4848,7 @@
                                                 <div class="portfolio-image">
                                                     <a href="javascript:void(0)" data-bs-toggle="modal"
                                                         data-bs-target="#imageModel">
-                                                        <img src="../assets/images/story/3.jpg" alt=""
+                                                        <img src="/assets/images/story/3.jpg" alt=""
                                                             class="img-fluid blur-up lazyload bg-img">
                                                     </a>
                                                 </div>
@@ -4860,7 +4860,7 @@
                                                     <div class="portfolio-image">
                                                         <a href="javascript:void(0)" data-bs-toggle="modal"
                                                             data-bs-target="#imageModel">
-                                                            <img src="../assets/images/story/4.jpg" alt=""
+                                                            <img src="/assets/images/story/4.jpg" alt=""
                                                                 class="img-fluid blur-up lazyload bg-img">
                                                         </a>
                                                     </div>
@@ -4871,7 +4871,7 @@
                                                     <div class="portfolio-image">
                                                         <a href="javascript:void(0)" data-bs-toggle="modal"
                                                             data-bs-target="#imageModel">
-                                                            <img src="../assets/images/story/6.jpg" alt=""
+                                                            <img src="/assets/images/story/6.jpg" alt=""
                                                                 class="img-fluid blur-up lazyload bg-img">
                                                         </a>
                                                     </div>
@@ -4883,7 +4883,7 @@
                                                 <div class="portfolio-image">
                                                     <a href="javascript:void(0)" data-bs-toggle="modal"
                                                         data-bs-target="#imageModel">
-                                                        <img src="../assets/images/story/5.jpg" alt=""
+                                                        <img src="/assets/images/story/5.jpg" alt=""
                                                             class="img-fluid blur-up lazyload bg-img">
                                                     </a>
                                                 </div>
@@ -4897,7 +4897,7 @@
                             <!-- event -->
                             <div class="event-box section-t-space ratio2_3">
                                 <div class="image-section">
-                                    <img src="../assets/images/event/1.jpg" class="img-fluid blur-up lazyload bg-img"
+                                    <img src="/assets/images/event/1.jpg" class="img-fluid blur-up lazyload bg-img"
                                         alt="event">
                                     <div class="card-title">
                                         <h3>event</h3>
@@ -4933,7 +4933,7 @@
                                         </div>
                                     </div>
                                     <div class="play-btn" data-bs-toggle="modal" data-bs-target="#videoPlayer">
-                                        <img src="../assets/images/icon/play.png" class="img-fluid blur-up lazyload"
+                                        <img src="/assets/images/icon/play.png" class="img-fluid blur-up lazyload"
                                             alt="play">
                                     </div>
                                 </div>
@@ -4998,7 +4998,7 @@
                                             <div class="story-box">
                                                 <div class="adaptive-overlay"></div>
                                                 <div class="story-bg">
-                                                    <img src="../assets/images/game/1.jpg" class="img-fluid bg-img"
+                                                    <img src="/assets/images/game/1.jpg" class="img-fluid bg-img"
                                                         data-adaptive-background='1' alt="">
                                                 </div>
                                                 <div class="story-content">
@@ -5012,7 +5012,7 @@
                                             <div class="story-box">
                                                 <div class="adaptive-overlay"></div>
                                                 <div class="story-bg">
-                                                    <img src="../assets/images/game/2.jpg" class="img-fluid bg-img"
+                                                    <img src="/assets/images/game/2.jpg" class="img-fluid bg-img"
                                                         data-adaptive-background='1' alt="">
                                                 </div>
                                                 <div class="story-content">
@@ -5026,12 +5026,12 @@
                                             <div class="story-box">
                                                 <div class="adaptive-overlay"></div>
                                                 <div class="story-bg">
-                                                    <img src="../assets/images/game/3.jpg" class="img-fluid bg-img"
+                                                    <img src="/assets/images/game/3.jpg" class="img-fluid bg-img"
                                                         data-adaptive-background='1' alt="">
                                                 </div>
                                                 <div class="story-content">
                                                     <h6>josephin water</h6>
-                                                    <span class="player"> <img src="../assets/images/icon/user-w.png"
+                                                    <span class="player"> <img src="/assets/images/icon/user-w.png"
                                                             class="img-fluid blur-up lazyload" alt="">25k</span>
                                                 </div>
                                             </div>
@@ -5109,8 +5109,8 @@
                         <li class="friend-box user1">
                             <div class="media">
                                 <a class="popover-cls user-img" data-bs-toggle="popover" data-placement="bottom"
-                                    data-name="paige turner" data-img="../assets/images/user-sm/1.jpg">
-                                    <img src="../assets/images/user-sm/1.jpg" class="img-fluid blur-up lazyload bg-img"
+                                    data-name="paige turner" data-img="/assets/images/user-sm/1.jpg">
+                                    <img src="/assets/images/user-sm/1.jpg" class="img-fluid blur-up lazyload bg-img"
                                         alt="user">
                                     <span class="available-stats"></span>
                                 </a>
@@ -5123,8 +5123,8 @@
                         <li class="friend-box user2">
                             <div class="media">
                                 <a class="popover-cls user-img" data-bs-toggle="popover" data-placement="bottom"
-                                    data-name="bob frapples" data-img="../assets/images/user-sm/2.jpg">
-                                    <img src="../assets/images/user-sm/2.jpg" class="img-fluid blur-up lazyload bg-img"
+                                    data-name="bob frapples" data-img="/assets/images/user-sm/2.jpg">
+                                    <img src="/assets/images/user-sm/2.jpg" class="img-fluid blur-up lazyload bg-img"
                                         alt="user">
                                     <span class="available-stats online"></span>
                                 </a>
@@ -5151,8 +5151,8 @@
                         <li class="friend-box user3">
                             <div class="media">
                                 <a class="popover-cls user-img" data-bs-toggle="popover" data-placement="bottom"
-                                    data-name="josephine water" data-img="../assets/images/user-sm/3.jpg">
-                                    <img src="../assets/images/user-sm/3.jpg" class="img-fluid blur-up lazyload bg-img"
+                                    data-name="josephine water" data-img="/assets/images/user-sm/3.jpg">
+                                    <img src="/assets/images/user-sm/3.jpg" class="img-fluid blur-up lazyload bg-img"
                                         alt="user">
                                     <span class="available-stats"></span>
                                 </a>
@@ -5165,8 +5165,8 @@
                         <li class="friend-box user4">
                             <div class="media">
                                 <a class="popover-cls user-img" data-bs-toggle="popover" data-placement="bottom"
-                                    data-name="petey cruiser" data-img="../assets/images/user-sm/4.jpg">
-                                    <img src="../assets/images/user-sm/4.jpg" class="img-fluid blur-up lazyload bg-img"
+                                    data-name="petey cruiser" data-img="/assets/images/user-sm/4.jpg">
+                                    <img src="/assets/images/user-sm/4.jpg" class="img-fluid blur-up lazyload bg-img"
                                         alt="user">
                                     <span class="available-stats offline"></span>
                                 </a>
@@ -5179,8 +5179,8 @@
                         <li class="friend-box user5">
                             <div class="media">
                                 <a class="popover-cls user-img" data-bs-toggle="popover" data-placement="right"
-                                    data-name="anna sthesia" data-img="../assets/images/user-sm/1.jpg">
-                                    <img src="../assets/images/user-sm/5.jpg" class="img-fluid blur-up lazyload bg-img"
+                                    data-name="anna sthesia" data-img="/assets/images/user-sm/1.jpg">
+                                    <img src="/assets/images/user-sm/5.jpg" class="img-fluid blur-up lazyload bg-img"
                                         alt="user">
                                     <span class="available-stats online"></span>
                                 </a>
@@ -5193,8 +5193,8 @@
                         <li class="friend-box user6">
                             <div class="media">
                                 <a class="popover-cls user-img" data-bs-toggle="popover" data-placement="right"
-                                    data-name="paul molive" data-img="../assets/images/user-sm/6.jpg">
-                                    <img src="../assets/images/user-sm/6.jpg" class="img-fluid blur-up lazyload bg-img"
+                                    data-name="paul molive" data-img="/assets/images/user-sm/6.jpg">
+                                    <img src="/assets/images/user-sm/6.jpg" class="img-fluid blur-up lazyload bg-img"
                                         alt="user">
                                     <span class="available-stats"></span>
                                 </a>
@@ -5207,8 +5207,8 @@
                         <li class="friend-box user7">
                             <div class="media">
                                 <a class="popover-cls user-img" data-bs-toggle="popover" data-placement="right"
-                                    data-name="anna mull" data-img="../assets/images/user-sm/7.jpg">
-                                    <img src="../assets/images/user-sm/7.jpg" class="img-fluid blur-up lazyload bg-img"
+                                    data-name="anna mull" data-img="/assets/images/user-sm/7.jpg">
+                                    <img src="/assets/images/user-sm/7.jpg" class="img-fluid blur-up lazyload bg-img"
                                         alt="user">
                                     <span class="available-stats away"></span>
                                 </a>
@@ -5254,12 +5254,12 @@
                                             <div class="media list-media">
                                                 <div class="story-img" data-bs-toggle="modal" data-bs-target="#addStory">
                                                     <div class="user-img">
-                                                        <img src="../assets/images/story-bg.jpg"
+                                                        <img src="/assets/images/story-bg.jpg"
                                                             class="img-fluid blur-up lazyload bg-img" alt="user">
                                                     </div>
                                                     <div class="add-icon">
                                                         <div class="icon">
-                                                            <img src="../assets/images/icon/plus.png"
+                                                            <img src="/assets/images/icon/plus.png"
                                                                 class="img-fluid blur-up lazyload" alt="plus">
                                                         </div>
                                                     </div>
@@ -5277,7 +5277,7 @@
                                                     <div class="media list-media">
                                                         <div class="story-img seen">
                                                             <div class="user-img">
-                                                                <img src="../assets/images/user-sm/1.jpg"
+                                                                <img src="/assets/images/user-sm/1.jpg"
                                                                     class="img-fluid blur-up lazyload bg-img"
                                                                     alt="user">
                                                             </div>
@@ -5292,7 +5292,7 @@
                                                     <div class="media list-media">
                                                         <div class="story-img seen">
                                                             <div class="user-img">
-                                                                <img src="../assets/images/user-sm/2.jpg"
+                                                                <img src="/assets/images/user-sm/2.jpg"
                                                                     class="img-fluid blur-up lazyload bg-img"
                                                                     alt="user">
                                                             </div>
@@ -5307,7 +5307,7 @@
                                                     <div class="media list-media">
                                                         <div class="story-img">
                                                             <div class="user-img">
-                                                                <img src="../assets/images/user-sm/3.jpg"
+                                                                <img src="/assets/images/user-sm/3.jpg"
                                                                     class="img-fluid blur-up lazyload bg-img"
                                                                     alt="user">
                                                             </div>
@@ -5322,7 +5322,7 @@
                                                     <div class="media list-media">
                                                         <div class="story-img">
                                                             <div class="user-img">
-                                                                <img src="../assets/images/user-sm/4.jpg"
+                                                                <img src="/assets/images/user-sm/4.jpg"
                                                                     class="img-fluid blur-up lazyload bg-img"
                                                                     alt="user">
                                                             </div>
@@ -5337,7 +5337,7 @@
                                                     <div class="media list-media">
                                                         <div class="story-img">
                                                             <div class="user-img">
-                                                                <img src="../assets/images/user-sm/5.jpg"
+                                                                <img src="/assets/images/user-sm/5.jpg"
                                                                     class="img-fluid blur-up lazyload bg-img"
                                                                     alt="user">
                                                             </div>
@@ -5352,7 +5352,7 @@
                                                     <div class="media list-media">
                                                         <div class="story-img">
                                                             <div class="user-img">
-                                                                <img src="../assets/images/user-sm/6.jpg"
+                                                                <img src="/assets/images/user-sm/6.jpg"
                                                                     class="img-fluid blur-up lazyload bg-img"
                                                                     alt="user">
                                                             </div>
@@ -5373,27 +5373,27 @@
                                     <div class="sliderContainer">
                                         <div class="slider single-item">
                                             <div>
-                                                <div class="story-image"><img src="../assets/images/post/1.jpg"
+                                                <div class="story-image"><img src="/assets/images/post/1.jpg"
                                                         class="img-fluid blur-up lazyload" alt=""></div>
                                             </div>
                                             <div>
-                                                <div class="story-image"><img src="../assets/images/post/2.jpg"
+                                                <div class="story-image"><img src="/assets/images/post/2.jpg"
                                                         class="img-fluid blur-up lazyload" alt=""></div>
                                             </div>
                                             <div>
-                                                <div class="story-image"><img src="../assets/images/post/3.jpg"
+                                                <div class="story-image"><img src="/assets/images/post/3.jpg"
                                                         class="img-fluid blur-up lazyload" alt=""></div>
                                             </div>
                                             <div>
-                                                <div class="story-image"><img src="../assets/images/post/4.jpg"
+                                                <div class="story-image"><img src="/assets/images/post/4.jpg"
                                                         class="img-fluid blur-up lazyload" alt=""></div>
                                             </div>
                                             <div>
-                                                <div class="story-image"><img src="../assets/images/post/5.jpg"
+                                                <div class="story-image"><img src="/assets/images/post/5.jpg"
                                                         class="img-fluid blur-up lazyload" alt=""></div>
                                             </div>
                                             <div>
-                                                <div class="story-image"><img src="../assets/images/post/6.jpg"
+                                                <div class="story-image"><img src="/assets/images/post/6.jpg"
                                                         class="img-fluid blur-up lazyload" alt=""></div>
                                             </div>
                                         </div>
@@ -5479,19 +5479,19 @@
                                 <div class="slide-1 box-arrow dots-number">
                                     <div>
                                         <div class="img-part">
-                                            <img src="../assets/images/post/15.jpg" class="img-fluid blur-up lazyload"
+                                            <img src="/assets/images/post/15.jpg" class="img-fluid blur-up lazyload"
                                                 alt="">
                                         </div>
                                     </div>
                                     <div>
                                         <div class="img-part">
-                                            <img src="../assets/images/post/16.jpg" class="img-fluid blur-up lazyload"
+                                            <img src="/assets/images/post/16.jpg" class="img-fluid blur-up lazyload"
                                                 alt="">
                                         </div>
                                     </div>
                                     <div>
                                         <div class="img-part">
-                                            <img src="../assets/images/post/17.jpg" class="img-fluid blur-up lazyload"
+                                            <img src="/assets/images/post/17.jpg" class="img-fluid blur-up lazyload"
                                                 alt="">
                                         </div>
                                     </div>
@@ -5503,7 +5503,7 @@
                                         <div class="user-media">
                                             <div class="media">
                                                 <a class="user-img">
-                                                    <img src="../assets/images/user-sm/1.jpg"
+                                                    <img src="/assets/images/user-sm/1.jpg"
                                                         class="img-fluid blur-up lazyload bg-img" alt="user">
                                                     <span class="available-stats"></span>
                                                 </a>
@@ -5691,8 +5691,8 @@
                                                                 <a href="#" class="user-img popover-cls"
                                                                     data-bs-toggle="popover" data-placement="right"
                                                                     data-name="Pabelo mukrani"
-                                                                    data-img="../assets/images/user-sm/2.jpg">
-                                                                    <img src="../assets/images/user-sm/2.jpg"
+                                                                    data-img="/assets/images/user-sm/2.jpg">
+                                                                    <img src="/assets/images/user-sm/2.jpg"
                                                                         class="img-fluid blur-up lazyload bg-img"
                                                                         alt="user">
                                                                 </a>
@@ -5718,8 +5718,8 @@
                                                                     <a href="#" class="user-img popover-cls"
                                                                         data-bs-toggle="popover" data-placement="right"
                                                                         data-name="sufiya elija"
-                                                                        data-img="../assets/images/user-sm/3.jpg">
-                                                                        <img src="../assets/images/user-sm/3.jpg"
+                                                                        data-img="/assets/images/user-sm/3.jpg">
+                                                                        <img src="/assets/images/user-sm/3.jpg"
                                                                             class="img-fluid blur-up lazyload bg-img"
                                                                             alt="user">
                                                                     </a>
@@ -5742,8 +5742,8 @@
                                                                     <a href="#" class="user-img popover-cls"
                                                                         data-bs-toggle="popover" data-placement="right"
                                                                         data-name="sufiya eliza"
-                                                                        data-img="../assets/images/user-sm/4.jpg">
-                                                                        <img src="../assets/images/user-sm/4.jpg"
+                                                                        data-img="/assets/images/user-sm/4.jpg">
+                                                                        <img src="/assets/images/user-sm/4.jpg"
                                                                             class="img-fluid blur-up lazyload bg-img"
                                                                             alt="user">
                                                                     </a>
@@ -5773,8 +5773,8 @@
                                                                 <a href="#" class="user-img popover-cls"
                                                                     data-bs-toggle="popover" data-placement="right"
                                                                     data-name="pabelo mukrani"
-                                                                    data-img="../assets/images/user-sm/2.jpg">
-                                                                    <img src="../assets/images/user-sm/2.jpg"
+                                                                    data-img="/assets/images/user-sm/2.jpg">
+                                                                    <img src="/assets/images/user-sm/2.jpg"
                                                                         class="img-fluid blur-up lazyload bg-img"
                                                                         alt="user">
                                                                 </a>
@@ -5858,7 +5858,7 @@
                     <div class="user-info">
                         <div class="media">
                             <a href="#" class="user-img">
-                                <img src="../assets/images/user-sm/2.jpg" class="img-fluid blur-up lazyload bg-img"
+                                <img src="/assets/images/user-sm/2.jpg" class="img-fluid blur-up lazyload bg-img"
                                     alt="user">
                             </a>
                             <div class="media-body">
@@ -5907,7 +5907,7 @@
                     </div>
                     <div class="post-section ratio2_1">
                         <div class="post-img">
-                            <img src="../assets/images/post/1.jpg" class="img-fluid blur-up lazyload bg-img" alt="">
+                            <img src="/assets/images/post/1.jpg" class="img-fluid blur-up lazyload bg-img" alt="">
                         </div>
                         <div class="post-content">
                             <h3>Today Our Three Cute Puppy Dog Birthday !!!!</h3>
@@ -5997,7 +5997,7 @@
                             <div class="search-input input-style icon-right">
                                 <input type="text" class="form-control enable" placeholder="write something here..">
                                 <a href="#">
-                                    <img src="../assets/images/icon/translate.png"
+                                    <img src="/assets/images/icon/translate.png"
                                         class="img-fluid blur-up lazyload icon" alt="translate">
                                 </a>
                             </div>
@@ -6090,7 +6090,7 @@
                         <div class="col-sm-6 col-12 text-center demo-effects">
                             <div class="set-position">
                                 <div class="layout-container">
-                                    <img src="../assets/images/demo/newsfeed/1.jpg" class="bg-img blur-up lazyload"
+                                    <img src="/assets/images/demo/newsfeed/1.jpg" class="bg-img blur-up lazyload"
                                         alt="">
                                 </div>
                                 <div class="demo-text">
@@ -6104,7 +6104,7 @@
                         <div class="col-sm-6 col-12 text-center demo-effects">
                             <div class="set-position">
                                 <div class="layout-container">
-                                    <img src="../assets/images/demo/newsfeed/2.jpg" class="bg-img blur-up lazyload"
+                                    <img src="/assets/images/demo/newsfeed/2.jpg" class="bg-img blur-up lazyload"
                                         alt="">
                                 </div>
                                 <div class="demo-text">
@@ -6118,7 +6118,7 @@
                         <div class="col-sm-6 col-12 text-center demo-effects">
                             <div class="set-position">
                                 <div class="layout-container">
-                                    <img src="../assets/images/demo/newsfeed/3.jpg" class="bg-img blur-up lazyload"
+                                    <img src="/assets/images/demo/newsfeed/3.jpg" class="bg-img blur-up lazyload"
                                         alt="">
                                 </div>
                                 <div class="demo-text">
@@ -6132,7 +6132,7 @@
                         <div class="col-sm-6 col-12 text-center demo-effects">
                             <div class="set-position">
                                 <div class="layout-container">
-                                    <img src="../assets/images/demo/newsfeed/4.jpg" class="bg-img blur-up lazyload"
+                                    <img src="/assets/images/demo/newsfeed/4.jpg" class="bg-img blur-up lazyload"
                                         alt="">
                                 </div>
                                 <div class="demo-text">
@@ -6146,7 +6146,7 @@
                         <div class="col-sm-6 col-12 text-center demo-effects">
                             <div class="set-position">
                                 <div class="layout-container">
-                                    <img src="../assets/images/demo/newsfeed/5.jpg" class="bg-img blur-up lazyload"
+                                    <img src="/assets/images/demo/newsfeed/5.jpg" class="bg-img blur-up lazyload"
                                         alt="">
                                 </div>
                                 <div class="demo-text">
@@ -6160,7 +6160,7 @@
                         <div class="col-sm-6 col-12 text-center demo-effects">
                             <div class="set-position">
                                 <div class="layout-container">
-                                    <img src="../assets/images/demo/newsfeed/6.jpg" class="bg-img blur-up lazyload"
+                                    <img src="/assets/images/demo/newsfeed/6.jpg" class="bg-img blur-up lazyload"
                                         alt="">
                                 </div>
                                 <div class="demo-text">
@@ -6174,7 +6174,7 @@
                         <div class="col-sm-6 col-12 text-center demo-effects">
                             <div class="set-position">
                                 <div class="layout-container">
-                                    <img src="../assets/images/demo/newsfeed/7.jpg" class="bg-img blur-up lazyload"
+                                    <img src="/assets/images/demo/newsfeed/7.jpg" class="bg-img blur-up lazyload"
                                         alt="">
                                 </div>
                                 <div class="demo-text">
@@ -6188,7 +6188,7 @@
                         <div class="col-sm-6 col-12 text-center demo-effects">
                             <div class="set-position">
                                 <div class="layout-container">
-                                    <img src="../assets/images/demo/newsfeed/8.jpg" class="bg-img blur-up lazyload"
+                                    <img src="/assets/images/demo/newsfeed/8.jpg" class="bg-img blur-up lazyload"
                                         alt="">
                                 </div>
                                 <div class="demo-text">
@@ -6202,7 +6202,7 @@
                         <div class="col-sm-6 col-12 text-center demo-effects">
                             <div class="set-position">
                                 <div class="layout-container">
-                                    <img src="../assets/images/demo/newsfeed/9.jpg" class="bg-img blur-up lazyload"
+                                    <img src="/assets/images/demo/newsfeed/9.jpg" class="bg-img blur-up lazyload"
                                         alt="">
                                 </div>
                                 <div class="demo-text">
@@ -6216,7 +6216,7 @@
                         <div class="col-sm-6 col-12 text-center demo-effects">
                             <div class="set-position">
                                 <div class="layout-container">
-                                    <img src="../assets/images/demo/newsfeed/10.jpg" class="bg-img blur-up lazyload"
+                                    <img src="/assets/images/demo/newsfeed/10.jpg" class="bg-img blur-up lazyload"
                                         alt="">
                                 </div>
                                 <div class="demo-text">
@@ -6230,7 +6230,7 @@
                         <div class="col-sm-6 col-12 text-center demo-effects">
                             <div class="set-position">
                                 <div class="layout-container">
-                                    <img src="../assets/images/demo/newsfeed/11.jpg" class="bg-img blur-up lazyload"
+                                    <img src="/assets/images/demo/newsfeed/11.jpg" class="bg-img blur-up lazyload"
                                         alt="">
                                 </div>
                                 <div class="demo-text">
@@ -6244,7 +6244,7 @@
                         <div class="col-sm-6 col-12 text-center demo-effects">
                             <div class="set-position">
                                 <div class="layout-container">
-                                    <img src="../assets/images/demo/newsfeed/12.jpg" class="bg-img blur-up lazyload"
+                                    <img src="/assets/images/demo/newsfeed/12.jpg" class="bg-img blur-up lazyload"
                                         alt="">
                                 </div>
                                 <div class="demo-text">
@@ -6265,7 +6265,7 @@
                         <div class="col-sm-6 col-12 text-center demo-effects">
                             <div class="set-position">
                                 <div class="layout-container">
-                                    <img src="../assets/images/demo/profile/1.jpg" class="bg-img blur-up lazyload"
+                                    <img src="/assets/images/demo/profile/1.jpg" class="bg-img blur-up lazyload"
                                         alt="">
                                 </div>
                                 <div class="demo-text">
@@ -6279,7 +6279,7 @@
                         <div class="col-sm-6 col-12 text-center demo-effects">
                             <div class="set-position">
                                 <div class="layout-container">
-                                    <img src="../assets/images/demo/profile/2.jpg" class="bg-img blur-up lazyload"
+                                    <img src="/assets/images/demo/profile/2.jpg" class="bg-img blur-up lazyload"
                                         alt="">
                                 </div>
                                 <div class="demo-text">
@@ -6293,7 +6293,7 @@
                         <div class="col-sm-6 col-12 text-center demo-effects">
                             <div class="set-position">
                                 <div class="layout-container">
-                                    <img src="../assets/images/demo/profile/3.jpg" class="bg-img blur-up lazyload"
+                                    <img src="/assets/images/demo/profile/3.jpg" class="bg-img blur-up lazyload"
                                         alt="">
                                 </div>
                                 <div class="demo-text">
@@ -6307,7 +6307,7 @@
                         <div class="col-sm-6 col-12 text-center demo-effects">
                             <div class="set-position">
                                 <div class="layout-container">
-                                    <img src="../assets/images/demo/profile/4.jpg" class="bg-img blur-up lazyload"
+                                    <img src="/assets/images/demo/profile/4.jpg" class="bg-img blur-up lazyload"
                                         alt="">
                                 </div>
                                 <div class="demo-text">
@@ -6321,7 +6321,7 @@
                         <div class="col-sm-6 col-12 text-center demo-effects">
                             <div class="set-position">
                                 <div class="layout-container">
-                                    <img src="../assets/images/demo/profile/5.jpg" class="bg-img blur-up lazyload"
+                                    <img src="/assets/images/demo/profile/5.jpg" class="bg-img blur-up lazyload"
                                         alt="">
                                 </div>
                                 <div class="demo-text">
@@ -6335,7 +6335,7 @@
                         <div class="col-sm-6 col-12 text-center demo-effects">
                             <div class="set-position">
                                 <div class="layout-container">
-                                    <img src="../assets/images/demo/profile/6.jpg" class="bg-img blur-up lazyload"
+                                    <img src="/assets/images/demo/profile/6.jpg" class="bg-img blur-up lazyload"
                                         alt="">
                                 </div>
                                 <div class="demo-text">
@@ -6349,7 +6349,7 @@
                         <div class="col-sm-6 col-12 text-center demo-effects">
                             <div class="set-position">
                                 <div class="layout-container">
-                                    <img src="../assets/images/demo/profile/7.jpg" class="bg-img blur-up lazyload"
+                                    <img src="/assets/images/demo/profile/7.jpg" class="bg-img blur-up lazyload"
                                         alt="">
                                 </div>
                                 <div class="demo-text">
@@ -6370,7 +6370,7 @@
                         <div class="col-sm-6 col-12 text-center demo-effects">
                             <div class="set-position">
                                 <div class="layout-container">
-                                    <img src="../assets/images/demo/favourite/1.jpg" class="img-fluid blur-up lazyload"
+                                    <img src="/assets/images/demo/favourite/1.jpg" class="img-fluid blur-up lazyload"
                                         alt="">
                                 </div>
                                 <div class="demo-text">
@@ -6384,7 +6384,7 @@
                         <div class="col-sm-6 col-12 text-center demo-effects">
                             <div class="set-position">
                                 <div class="layout-container">
-                                    <img src="../assets/images/demo/favourite/2.jpg" class="img-fluid blur-up lazyload"
+                                    <img src="/assets/images/demo/favourite/2.jpg" class="img-fluid blur-up lazyload"
                                         alt="">
                                 </div>
                                 <div class="demo-text">
@@ -6398,7 +6398,7 @@
                         <div class="col-sm-6 col-12 text-center demo-effects">
                             <div class="set-position">
                                 <div class="layout-container">
-                                    <img src="../assets/images/demo/favourite/3.jpg" class="img-fluid blur-up lazyload"
+                                    <img src="/assets/images/demo/favourite/3.jpg" class="img-fluid blur-up lazyload"
                                         alt="">
                                 </div>
                                 <div class="demo-text">
@@ -6412,7 +6412,7 @@
                         <div class="col-sm-6 col-12 text-center demo-effects">
                             <div class="set-position">
                                 <div class="layout-container">
-                                    <img src="../assets/images/demo/favourite/4.jpg" class="img-fluid blur-up lazyload"
+                                    <img src="/assets/images/demo/favourite/4.jpg" class="img-fluid blur-up lazyload"
                                         alt="">
                                 </div>
                                 <div class="demo-text">
@@ -6426,7 +6426,7 @@
                         <div class="col-sm-6 col-12 text-center demo-effects">
                             <div class="set-position">
                                 <div class="layout-container">
-                                    <img src="../assets/images/demo/favourite/5.jpg" class="img-fluid blur-up lazyload"
+                                    <img src="/assets/images/demo/favourite/5.jpg" class="img-fluid blur-up lazyload"
                                         alt="">
                                 </div>
                                 <div class="demo-text">
@@ -6440,7 +6440,7 @@
                         <div class="col-sm-6 col-12 text-center demo-effects">
                             <div class="set-position">
                                 <div class="layout-container">
-                                    <img src="../assets/images/demo/favourite/6.jpg" class="img-fluid blur-up lazyload"
+                                    <img src="/assets/images/demo/favourite/6.jpg" class="img-fluid blur-up lazyload"
                                         alt="">
                                 </div>
                                 <div class="demo-text">
@@ -6461,7 +6461,7 @@
                         <div class="col-sm-6 col-12 text-center demo-effects">
                             <div class="set-position">
                                 <div class="layout-container">
-                                    <img src="../assets/images/demo/other/events.jpg" class="bg-img blur-up lazyload"
+                                    <img src="/assets/images/demo/other/events.jpg" class="bg-img blur-up lazyload"
                                         alt="">
                                 </div>
                                 <div class="demo-text">
@@ -6475,7 +6475,7 @@
                         <div class="col-sm-6 col-12 text-center demo-effects">
                             <div class="set-position">
                                 <div class="layout-container">
-                                    <img src="../assets/images/demo/other/birthday.jpg" class="bg-img blur-up lazyload"
+                                    <img src="/assets/images/demo/other/birthday.jpg" class="bg-img blur-up lazyload"
                                         alt="">
                                 </div>
                                 <div class="demo-text">
@@ -6489,7 +6489,7 @@
                         <div class="col-sm-6 col-12 text-center demo-effects">
                             <div class="set-position">
                                 <div class="layout-container">
-                                    <img src="../assets/images/demo/other/weather.jpg" class="bg-img blur-up lazyload"
+                                    <img src="/assets/images/demo/other/weather.jpg" class="bg-img blur-up lazyload"
                                         alt="">
                                 </div>
                                 <div class="demo-text">
@@ -6503,7 +6503,7 @@
                         <div class="col-sm-6 col-12 text-center demo-effects">
                             <div class="set-position">
                                 <div class="layout-container">
-                                    <img src="../assets/images/demo/other/music.jpg" class="bg-img blur-up lazyload"
+                                    <img src="/assets/images/demo/other/music.jpg" class="bg-img blur-up lazyload"
                                         alt="">
                                 </div>
                                 <div class="demo-text">
@@ -6517,7 +6517,7 @@
                         <div class="col-sm-6 col-12 text-center demo-effects">
                             <div class="set-position">
                                 <div class="layout-container">
-                                    <img src="../assets/images/demo/other/events.jpg" class="bg-img blur-up lazyload"
+                                    <img src="/assets/images/demo/other/events.jpg" class="bg-img blur-up lazyload"
                                         alt="">
                                 </div>
                                 <div class="demo-text">
@@ -6531,7 +6531,7 @@
                         <div class="col-sm-6 col-12 text-center demo-effects">
                             <div class="set-position">
                                 <div class="layout-container">
-                                    <img src="../assets/images/demo/other/login.jpg" class="bg-img blur-up lazyload"
+                                    <img src="/assets/images/demo/other/login.jpg" class="bg-img blur-up lazyload"
                                         alt="">
                                 </div>
                                 <div class="demo-text">
@@ -6545,7 +6545,7 @@
                         <div class="col-sm-6 col-12 text-center demo-effects">
                             <div class="set-position">
                                 <div class="layout-container">
-                                    <img src="../assets/images/demo/other/register.jpg" class="bg-img blur-up lazyload"
+                                    <img src="/assets/images/demo/other/register.jpg" class="bg-img blur-up lazyload"
                                         alt="">
                                 </div>
                                 <div class="demo-text">
@@ -6559,7 +6559,7 @@
                         <div class="col-sm-6 col-12 text-center demo-effects">
                             <div class="set-position">
                                 <div class="layout-container">
-                                    <img src="../assets/images/demo/other/help.jpg" class="bg-img blur-up lazyload"
+                                    <img src="/assets/images/demo/other/help.jpg" class="bg-img blur-up lazyload"
                                         alt="">
                                 </div>
                                 <div class="demo-text">
@@ -6573,7 +6573,7 @@
                         <div class="col-sm-6 col-12 text-center demo-effects">
                             <div class="set-position">
                                 <div class="layout-container">
-                                    <img src="../assets/images/demo/other/messanger.jpg" class="bg-img blur-up lazyload"
+                                    <img src="/assets/images/demo/other/messanger.jpg" class="bg-img blur-up lazyload"
                                         alt="">
                                 </div>
                                 <div class="demo-text">
@@ -6587,7 +6587,7 @@
                         <div class="col-sm-6 col-12 text-center demo-effects">
                             <div class="set-position">
                                 <div class="layout-container">
-                                    <img src="../assets/images/demo/other/setting.jpg" class="bg-img blur-up lazyload"
+                                    <img src="/assets/images/demo/other/setting.jpg" class="bg-img blur-up lazyload"
                                         alt="">
                                 </div>
                                 <div class="demo-text">
@@ -6601,7 +6601,7 @@
                         <div class="col-sm-6 col-12 text-center demo-effects">
                             <div class="set-position">
                                 <div class="layout-container">
-                                    <img src="../assets/images/demo/other/help.jpg" class="bg-img blur-up lazyload"
+                                    <img src="/assets/images/demo/other/help.jpg" class="bg-img blur-up lazyload"
                                         alt="">
                                 </div>
                                 <div class="demo-text">
@@ -6622,7 +6622,7 @@
                         <div class="col-sm-6 col-12 text-center demo-effects">
                             <div class="set-position">
                                 <div class="layout-container">
-                                    <img src="../assets/images/demo/company/home.jpg" class="bg-img blur-up lazyload"
+                                    <img src="/assets/images/demo/company/home.jpg" class="bg-img blur-up lazyload"
                                         alt="">
                                 </div>
                                 <div class="demo-text">
@@ -6636,7 +6636,7 @@
                         <div class="col-sm-6 col-12 text-center demo-effects">
                             <div class="set-position">
                                 <div class="layout-container">
-                                    <img src="../assets/images/demo/company/about.jpg" class="bg-img blur-up lazyload"
+                                    <img src="/assets/images/demo/company/about.jpg" class="bg-img blur-up lazyload"
                                         alt="">
                                 </div>
                                 <div class="demo-text">
@@ -6650,7 +6650,7 @@
                         <div class="col-sm-6 col-12 text-center demo-effects">
                             <div class="set-position">
                                 <div class="layout-container">
-                                    <img src="../assets/images/demo/company/blog.jpg" class="bg-img blur-up lazyload"
+                                    <img src="/assets/images/demo/company/blog.jpg" class="bg-img blur-up lazyload"
                                         alt="">
                                 </div>
                                 <div class="demo-text">
@@ -6664,7 +6664,7 @@
                         <div class="col-sm-6 col-12 text-center demo-effects">
                             <div class="set-position">
                                 <div class="layout-container">
-                                    <img src="../assets/images/demo/company/blog-details.jpg"
+                                    <img src="/assets/images/demo/company/blog-details.jpg"
                                         class="bg-img blur-up lazyload" alt="">
                                 </div>
                                 <div class="demo-text">
@@ -6678,7 +6678,7 @@
                         <div class="col-sm-6 col-12 text-center demo-effects">
                             <div class="set-position">
                                 <div class="layout-container">
-                                    <img src="../assets/images/demo/company/faq.jpg" class="bg-img blur-up lazyload"
+                                    <img src="/assets/images/demo/company/faq.jpg" class="bg-img blur-up lazyload"
                                         alt="">
                                 </div>
                                 <div class="demo-text">
@@ -6692,7 +6692,7 @@
                         <div class="col-sm-6 col-12 text-center demo-effects">
                             <div class="set-position">
                                 <div class="layout-container">
-                                    <img src="../assets/images/demo/company/career.jpg" class="bg-img blur-up lazyload"
+                                    <img src="/assets/images/demo/company/career.jpg" class="bg-img blur-up lazyload"
                                         alt="">
                                 </div>
                                 <div class="demo-text">
@@ -6706,7 +6706,7 @@
                         <div class="col-sm-6 col-12 text-center demo-effects">
                             <div class="set-position">
                                 <div class="layout-container">
-                                    <img src="../assets/images/demo/company/career-details.jpg"
+                                    <img src="/assets/images/demo/company/career-details.jpg"
                                         class="bg-img blur-up lazyload" alt="">
                                 </div>
                                 <div class="demo-text">
@@ -6720,7 +6720,7 @@
                         <div class="col-sm-6 col-12 text-center demo-effects">
                             <div class="set-position">
                                 <div class="layout-container">
-                                    <img src="../assets/images/demo/company/coming-soon.jpg"
+                                    <img src="/assets/images/demo/company/coming-soon.jpg"
                                         class="bg-img blur-up lazyload" alt="">
                                 </div>
                                 <div class="demo-text">
@@ -6734,7 +6734,7 @@
                         <div class="col-sm-6 col-12 text-center demo-effects">
                             <div class="set-position">
                                 <div class="layout-container">
-                                    <img src="../assets/images/demo/company/404.jpg" class="bg-img blur-up lazyload"
+                                    <img src="/assets/images/demo/company/404.jpg" class="bg-img blur-up lazyload"
                                         alt="">
                                 </div>
                                 <div class="demo-text">
@@ -6755,7 +6755,7 @@
                         <div class="col-sm-6 col-12 text-center demo-effects">
                             <div class="set-position">
                                 <div class="layout-container">
-                                    <img src="../assets/images/demo/element/typography.jpg"
+                                    <img src="/assets/images/demo/element/typography.jpg"
                                         class="bg-img blur-up lazyload" alt="">
                                 </div>
                                 <div class="demo-text">
@@ -6769,7 +6769,7 @@
                         <div class="col-sm-6 col-12 text-center demo-effects">
                             <div class="set-position">
                                 <div class="layout-container">
-                                    <img src="../assets/images/demo/element/widget.jpg" class="bg-img blur-up lazyload"
+                                    <img src="/assets/images/demo/element/widget.jpg" class="bg-img blur-up lazyload"
                                         alt="">
                                 </div>
                                 <div class="demo-text">
@@ -6783,7 +6783,7 @@
                         <div class="col-sm-6 col-12 text-center demo-effects">
                             <div class="set-position">
                                 <div class="layout-container">
-                                    <img src="../assets/images/demo/element/calendar.jpg"
+                                    <img src="/assets/images/demo/element/calendar.jpg"
                                         class="bg-img blur-up lazyload" alt="">
                                 </div>
                                 <div class="demo-text">
@@ -6797,7 +6797,7 @@
                         <div class="col-sm-6 col-12 text-center demo-effects">
                             <div class="set-position">
                                 <div class="layout-container">
-                                    <img src="../assets/images/demo/element/map.jpg" class="bg-img blur-up lazyload"
+                                    <img src="/assets/images/demo/element/map.jpg" class="bg-img blur-up lazyload"
                                         alt="">
                                 </div>
                                 <div class="demo-text">
@@ -6811,7 +6811,7 @@
                         <div class="col-sm-6 col-12 text-center demo-effects">
                             <div class="set-position">
                                 <div class="layout-container">
-                                    <img src="../assets/images/demo/element/icons.jpg" class="bg-img blur-up lazyload"
+                                    <img src="/assets/images/demo/element/icons.jpg" class="bg-img blur-up lazyload"
                                         alt="">
                                 </div>
                                 <div class="demo-text">
@@ -6825,7 +6825,7 @@
                         <div class="col-sm-6 col-12 text-center demo-effects">
                             <div class="set-position">
                                 <div class="layout-container">
-                                    <img src="../assets/images/demo/element/modal.jpg" class="bg-img blur-up lazyload"
+                                    <img src="/assets/images/demo/element/modal.jpg" class="bg-img blur-up lazyload"
                                         alt="">
                                 </div>
                                 <div class="demo-text">
@@ -6839,7 +6839,7 @@
                         <div class="col-sm-6 col-12 text-center demo-effects">
                             <div class="set-position">
                                 <div class="layout-container">
-                                    <img src="../assets/images/demo/element/buttons.jpg" class="bg-img blur-up lazyload"
+                                    <img src="/assets/images/demo/element/buttons.jpg" class="bg-img blur-up lazyload"
                                         alt="">
                                 </div>
                                 <div class="demo-text">
@@ -6862,41 +6862,41 @@
 
 
     <!-- latest jquery-->
-    <script src="../assets/js/jquery-3.6.0.min.js"></script>
+    <script src="/assets/js/jquery-3.6.0.min.js"></script>
 
     <!-- popper js-->
-    <script src="../assets/js/popper.min.js"></script>
+    <script src="/assets/js/popper.min.js"></script>
 
     <!-- slick slider js -->
-    <script src="../assets/js/slick.js"></script>
-    <script src="../assets/js/custom-slick.js"></script>
+    <script src="/assets/js/slick.js"></script>
+    <script src="/assets/js/custom-slick.js"></script>
 
     <!-- counter js -->
-    <script src="../assets/js/counter.js"></script>
+    <script src="/assets/js/counter.js"></script>
 
     <!-- popover js for custom popover -->
-    <script src="../assets/js/popover.js"></script>
+    <script src="/assets/js/popover.js"></script>
 
     <!-- feather icon js-->
-    <script src="../assets/js/feather.min.js"></script>
+    <script src="/assets/js/feather.min.js"></script>
 
     <!-- emoji picker js-->
-    <script src="../assets/js/emojionearea.min.js"></script>
+    <script src="/assets/js/emojionearea.min.js"></script>
 
     <!-- Bootstrap js-->
-    <script src="../assets/js/bootstrap.js"></script>
+    <script src="/assets/js/bootstrap.js"></script>
 
     <!-- chatbox js -->
-    <script src="../assets/js/chatbox.js"></script>
+    <script src="/assets/js/chatbox.js"></script>
 
     <!-- lazyload js-->
-    <script src="../assets/js/lazysizes.min.js"></script>
+    <script src="/assets/js/lazysizes.min.js"></script>
 
     <!-- theme setting js-->
-    <script src="../assets/js/theme-setting.js"></script>
+    <script src="/assets/js/theme-setting.js"></script>
 
     <!-- Theme js-->
-    <script src="../assets/js/script.js"></script>
+    <script src="/assets/js/script.js"></script>
 
     <script>
         feather.replace();
