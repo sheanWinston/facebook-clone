@@ -456,17 +456,12 @@
                             <div class="timeline-info">
                                 <ul>
                                     <li class="admin-name">
-                                        <h5>Janice Griffith</h5>
-                                        <span>Group Admin</span>
+                                        <h5>{{ $page.props.auth.user.name }}</h5>
+                                        <span>{{ $page.props.auth.user.username }}</span>
                                     </li>
                                     <li>
-                                        <a class="active" href="time-line.html" title="" data-ripple="">time line</a>
-                                        <a class="" href="timeline-photos.html" title="" data-ripple="">Photos</a>
-                                        <a class="" href="timeline-videos.html" title="" data-ripple="">Videos</a>
-                                        <a class="" href="timeline-friends.html" title="" data-ripple="">Friends</a>
-                                        <a class="" href="timeline-groups.html" title="" data-ripple="">Groups</a>
-                                        <a class="" href="about.html" title="" data-ripple="">about</a>
-                                        <a class="" href="#" title="" data-ripple="">more</a>
+                                        <Link class="active" :href="route('welcome')" title="" data-ripple="">time line</Link>
+                                        <Link class="" :href="route('friends')" title="" data-ripple="">Friends</Link>
                                     </li>
                                 </ul>
                             </div>
@@ -647,10 +642,10 @@
 </template>
 
 <script setup>
-
+import { Link } from '@inertiajs/inertia-vue3';
 </script>
 
 <style lang="scss" scoped>
 
 </style>
-//
+

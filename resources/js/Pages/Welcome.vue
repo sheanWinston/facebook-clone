@@ -972,6 +972,9 @@
 
 <script setup>
     import BreezeAuthenticatedLayout from '@/layouts/Authenticated';
+    defineProps({
+        user : '',
+    })
 
 </script>
 
