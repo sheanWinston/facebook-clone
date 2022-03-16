@@ -26,6 +26,7 @@ Route::get('/dashboard', function () {
 Route::middleware(['auth'])->group(function () {
     Route::get('/', [HomeController::class, 'index'])->name('welcome');
     Route::get('/friends', [FriendController::class, 'index'])->name('friends');
+    Route::get('/all-users', [FriendController::class, 'users'])->name('users');
 });
 
 require __DIR__ . '/auth.php';
