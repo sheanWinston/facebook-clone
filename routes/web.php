@@ -27,6 +27,8 @@ Route::middleware(['auth'])->group(function () {
     Route::get('/', [HomeController::class, 'index'])->name('welcome');
     Route::get('/friends', [FriendController::class, 'index'])->name('friends');
     Route::get('/all-users', [FriendController::class, 'users'])->name('users');
+    Route::get('/follow/{user}', [FriendController::class, 'follow'])->name('user.follow');
+
 });
 
 require __DIR__ . '/auth.php';

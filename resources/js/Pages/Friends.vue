@@ -33,15 +33,15 @@
                         </div>
                         <div class="tab-pane fade" id="frends-req">
                             <ul class="nearby-contct">
-                                <li>
+                                <li v-for="fan in following" :key="fan.id">
                                     <div class="nearly-pepls">
                                         <figure>
                                             <a href="time-line.html" title=""><img src="images/resources/nearly5.jpg"
                                                     alt=""></a>
                                         </figure>
                                         <div class="pepl-info">
-                                            <h4><a href="time-line.html" title="">Amy watson</a></h4>
-                                            <span>ftv model</span>
+                                            <h4><a href="time-line.html" title="">{{ fan.friend.name }}</a></h4>
+                                            <span>{{ fan.friend.username }}</span>
                                             <a href="#" title="" class="add-butn more-action" data-ripple="">delete
                                                 Request</a>
                                             <a href="#" title="" class="add-butn" data-ripple="">Confirm</a>
@@ -54,13 +54,15 @@
                     </div>
                 </div>
             </div>
-        </div><!-- centerl meta -->
+        </div>
     </BreezeAuthenticatedLayout>
 </template>
 
 <script setup>
     import BreezeAuthenticatedLayout from '@/layouts/Authenticated';
-
+    defineProps({
+        following : ''
+    })
 </script>
 
 <style lang="scss" scoped>

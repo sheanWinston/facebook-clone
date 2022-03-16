@@ -15,7 +15,7 @@
                                 <h4><a href="time-line.html" title="">{{ user.name }}</a></h4>
                                 <span>{{ user.username }}</span>
                                 <em>32k Members</em>
-                                <a href="#" title="" class="add-butn" data-ripple="">Follow</a>
+                                <Link :href="route('user.follow', user)" title="" class="add-butn" data-ripple="">Follow</Link>
                             </div>
                         </div>
                     </li>
@@ -28,6 +28,7 @@
 
 <script setup>
     import BreezeAuthenticatedLayout from '@/layouts/Authenticated';
+    import { Link } from '@inertiajs/inertia-vue3';
 
     defineProps({
         users: ''
